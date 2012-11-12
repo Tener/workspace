@@ -1,0 +1,10 @@
+VTC PLAYER MM BT; 2 (W) played 1 6 2 5
+BBBBBBB
+BBBBBBB
+.......
+.......
+.....W.
+WWWWWW.
+WWWWWWW
+[AWAY 1 GAME_ON]
+VTC PLAYER MM BT; 2 won. HUMAN DQd

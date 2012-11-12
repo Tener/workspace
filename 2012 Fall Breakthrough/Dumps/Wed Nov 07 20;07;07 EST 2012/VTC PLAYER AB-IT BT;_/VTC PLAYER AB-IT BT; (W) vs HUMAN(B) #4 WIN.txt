@@ -1,0 +1,136 @@
+VTC PLAYER AB-IT BT;  (W) played 1 0 2 0
+BBBBBBB
+BBBBBBB
+.......
+.......
+W......
+.WWWWWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+HUMAN (B) played 5 4 4 4
+BBBBBBB
+BBBB.BB
+....B..
+.......
+W......
+.WWWWWW
+WWWWWWW
+[HOME 2 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 1 5 2 4
+BBBBBBB
+BBBB.BB
+....B..
+.......
+W...W..
+.WWWW.W
+WWWWWWW
+[AWAY 3 GAME_ON]
+HUMAN (B) played 5 6 4 6
+BBBBBBB
+BBBB.B.
+....B.B
+.......
+W...W..
+.WWWW.W
+WWWWWWW
+[HOME 4 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 1 3 2 2
+BBBBBBB
+BBBB.B.
+....B.B
+.......
+W.W.W..
+.WW.W.W
+WWWWWWW
+[AWAY 5 GAME_ON]
+HUMAN (B) played 4 6 3 5
+BBBBBBB
+BBBB.B.
+....B..
+.....B.
+W.W.W..
+.WW.W.W
+WWWWWWW
+[HOME 6 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 2 4 3 4
+BBBBBBB
+BBBB.B.
+....B..
+....WB.
+W.W....
+.WW.W.W
+WWWWWWW
+[AWAY 7 GAME_ON]
+HUMAN (B) played 4 4 3 3
+BBBBBBB
+BBBB.B.
+.......
+...BWB.
+W.W....
+.WW.W.W
+WWWWWWW
+[HOME 8 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 2 2 3 3
+BBBBBBB
+BBBB.B.
+.......
+...WWB.
+W......
+.WW.W.W
+WWWWWWW
+[AWAY 9 GAME_ON]
+HUMAN (B) played 3 5 2 6
+BBBBBBB
+BBBB.B.
+.......
+...WW..
+W.....B
+.WW.W.W
+WWWWWWW
+[HOME 10 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 1 4 2 5
+BBBBBBB
+BBBB.B.
+.......
+...WW..
+W....WB
+.WW...W
+WWWWWWW
+[AWAY 11 GAME_ON]
+HUMAN (B) played 2 6 1 5
+BBBBBBB
+BBBB.B.
+.......
+...WW..
+W....W.
+.WW..BW
+WWWWWWW
+[HOME 12 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 0 4 1 5
+BBBBBBB
+BBBB.B.
+.......
+...WW..
+W....W.
+.WW..WW
+WWWW.WW
+[AWAY 13 GAME_ON]
+HUMAN (B) played 5 3 4 4
+BBBBBBB
+BBB..B.
+....B..
+...WW..
+W....W.
+.WW..WW
+WWWW.WW
+[HOME 14 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 3 3 4 4
+BBBBBBB
+BBB..B.
+....W..
+....W..
+W....W.
+.WW..WW
+WWWW.WW
+[AWAY 15 GAME_ON]
+VTC PLAYER AB-IT BT;  won. HUMAN DQd

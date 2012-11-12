@@ -1,0 +1,83 @@
+HUMAN (W) played 1 4 2 4
+BBBBBBB
+BBBBBBB
+.......
+.......
+....W..
+WWWW.WW
+WWWWWWW
+[AWAY 1 GAME_ON]
+Random BT+ (B) played 5 3 4 3
+BBBBBBB
+BBB.BBB
+...B...
+.......
+....W..
+WWWW.WW
+WWWWWWW
+[HOME 2 GAME_ON]
+HUMAN (W) played 2 4 3 4
+BBBBBBB
+BBB.BBB
+...B...
+....W..
+.......
+WWWW.WW
+WWWWWWW
+[AWAY 3 GAME_ON]
+Random BT+ (B) played 5 0 4 0
+BBBBBBB
+.BB.BBB
+B..B...
+....W..
+.......
+WWWW.WW
+WWWWWWW
+[HOME 4 GAME_ON]
+HUMAN (W) played 3 4 4 4
+BBBBBBB
+.BB.BBB
+B..BW..
+.......
+.......
+WWWW.WW
+WWWWWWW
+[AWAY 5 GAME_ON]
+Random BT+ (B) played 5 4 4 5
+BBBBBBB
+.BB..BB
+B..BWB.
+.......
+.......
+WWWW.WW
+WWWWWWW
+[HOME 6 GAME_ON]
+HUMAN (W) played 4 4 5 5
+BBBBBBB
+.BB..WB
+B..B.B.
+.......
+.......
+WWWW.WW
+WWWWWWW
+[AWAY 7 GAME_ON]
+Random BT+ (B) played 5 1 4 2
+BBBBBBB
+..B..WB
+B.BB.B.
+.......
+.......
+WWWW.WW
+WWWWWWW
+[HOME 8 GAME_ON]
+HUMAN (W) played 5 5 6 4
+BBBBWBB
+..B...B
+B.BB.B.
+.......
+.......
+WWWW.WW
+WWWWWWW
+[AWAY 9 HOME_WIN]
+HUMAN (W) (347.308000 seconds remaining) won.
+Random BT+ had 419.996000 seconds remaining.

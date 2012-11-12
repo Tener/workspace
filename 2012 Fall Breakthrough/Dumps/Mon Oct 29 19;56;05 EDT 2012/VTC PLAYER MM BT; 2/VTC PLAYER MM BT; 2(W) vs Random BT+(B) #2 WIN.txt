@@ -1,0 +1,83 @@
+VTC PLAYER MM BT; 2 (W) played 1 6 2 5
+BBBBBBB
+BBBBBBB
+.......
+.......
+.....W.
+WWWWWW.
+WWWWWWW
+[AWAY 1 GAME_ON]
+Random BT+ (B) played 5 2 4 1
+BBBBBBB
+BB.BBBB
+.B.....
+.......
+.....W.
+WWWWWW.
+WWWWWWW
+[HOME 2 GAME_ON]
+VTC PLAYER MM BT; 2 (W) played 2 5 3 4
+BBBBBBB
+BB.BBBB
+.B.....
+....W..
+.......
+WWWWWW.
+WWWWWWW
+[AWAY 3 GAME_ON]
+Random BT+ (B) played 5 5 4 5
+BBBBBBB
+BB.BB.B
+.B...B.
+....W..
+.......
+WWWWWW.
+WWWWWWW
+[HOME 4 GAME_ON]
+VTC PLAYER MM BT; 2 (W) played 3 4 4 3
+BBBBBBB
+BB.BB.B
+.B.W.B.
+.......
+.......
+WWWWWW.
+WWWWWWW
+[AWAY 5 GAME_ON]
+Random BT+ (B) played 5 1 4 2
+BBBBBBB
+B..BB.B
+.BBW.B.
+.......
+.......
+WWWWWW.
+WWWWWWW
+[HOME 6 GAME_ON]
+VTC PLAYER MM BT; 2 (W) played 4 3 5 2
+BBBBBBB
+B.WBB.B
+.BB..B.
+.......
+.......
+WWWWWW.
+WWWWWWW
+[AWAY 7 GAME_ON]
+Random BT+ (B) played 6 0 5 1
+.BBBBBB
+BBWBB.B
+.BB..B.
+.......
+.......
+WWWWWW.
+WWWWWWW
+[HOME 8 GAME_ON]
+VTC PLAYER MM BT; 2 (W) played 5 2 6 1
+.WBBBBB
+BB.BB.B
+.BB..B.
+.......
+.......
+WWWWWW.
+WWWWWWW
+[AWAY 9 HOME_WIN]
+VTC PLAYER MM BT; 2 (W) (419.995000 seconds remaining) won.
+Random BT+ had 419.998000 seconds remaining.

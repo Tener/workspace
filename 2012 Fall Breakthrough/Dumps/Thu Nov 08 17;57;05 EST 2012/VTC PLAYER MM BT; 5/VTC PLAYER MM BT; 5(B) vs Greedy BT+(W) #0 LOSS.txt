@@ -1,0 +1,28 @@
+Greedy BT+ (W) played 1 3 2 4
+BBBBBBB
+BBBBBBB
+.......
+.......
+....W..
+WWW.WWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 5 3 4 3
+BBBBBBB
+BBB.BBB
+...B...
+.......
+....W..
+WWW.WWW
+WWWWWWW
+[HOME 2 GAME_ON]
+Greedy BT+ (W) played 1 4 2 5
+BBBBBBB
+BBB.BBB
+...B...
+.......
+....WW.
+WWW..WW
+WWWWWWW
+[AWAY 3 GAME_ON]
+Greedy BT+ won. VTC PLAYER MM BT; 5 DQd

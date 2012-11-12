@@ -1,0 +1,154 @@
+Greedy BT+ (W) played 1 3 2 3
+BBBBBBB
+BBBBBBB
+.......
+.......
+...W...
+WWW.WWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+VTC PLAYER AB-ID BT;  (B) played 5 4 4 3
+BBBBBBB
+BBBB.BB
+...B...
+.......
+...W...
+WWW.WWW
+WWWWWWW
+[HOME 2 GAME_ON]
+Greedy BT+ (W) played 1 6 2 5
+BBBBBBB
+BBBB.BB
+...B...
+.......
+...W.W.
+WWW.WW.
+WWWWWWW
+[AWAY 3 GAME_ON]
+VTC PLAYER AB-ID BT;  (B) played 5 1 4 1
+BBBBBBB
+B.BB.BB
+.B.B...
+.......
+...W.W.
+WWW.WW.
+WWWWWWW
+[HOME 4 GAME_ON]
+Greedy BT+ (W) played 2 3 3 3
+BBBBBBB
+B.BB.BB
+.B.B...
+...W...
+.....W.
+WWW.WW.
+WWWWWWW
+[AWAY 5 GAME_ON]
+VTC PLAYER AB-ID BT;  (B) played 5 3 4 2
+BBBBBBB
+B.B..BB
+.BBB...
+...W...
+.....W.
+WWW.WW.
+WWWWWWW
+[HOME 6 GAME_ON]
+Greedy BT+ (W) played 3 3 4 2
+BBBBBBB
+B.B..BB
+.BWB...
+.......
+.....W.
+WWW.WW.
+WWWWWWW
+[AWAY 7 GAME_ON]
+VTC PLAYER AB-ID BT;  (B) played 6 0 5 1
+.BBBBBB
+BBB..BB
+.BWB...
+.......
+.....W.
+WWW.WW.
+WWWWWWW
+[HOME 8 GAME_ON]
+Greedy BT+ (W) played 4 2 5 1
+.BBBBBB
+BWB..BB
+.B.B...
+.......
+.....W.
+WWW.WW.
+WWWWWWW
+[AWAY 9 GAME_ON]
+VTC PLAYER AB-ID BT;  (B) played 6 2 5 1
+.B.BBBB
+BBB..BB
+.B.B...
+.......
+.....W.
+WWW.WW.
+WWWWWWW
+[HOME 10 GAME_ON]
+Greedy BT+ (W) played 2 5 3 5
+.B.BBBB
+BBB..BB
+.B.B...
+.....W.
+.......
+WWW.WW.
+WWWWWWW
+[AWAY 11 GAME_ON]
+VTC PLAYER AB-ID BT;  (B) played 5 5 4 5
+.B.BBBB
+BBB...B
+.B.B.B.
+.....W.
+.......
+WWW.WW.
+WWWWWWW
+[HOME 12 GAME_ON]
+Greedy BT+ (W) played 1 0 2 1
+.B.BBBB
+BBB...B
+.B.B.B.
+.....W.
+.W.....
+.WW.WW.
+WWWWWWW
+[AWAY 13 GAME_ON]
+VTC PLAYER AB-ID BT;  (B) played 6 4 5 5
+.B.B.BB
+BBB..BB
+.B.B.B.
+.....W.
+.W.....
+.WW.WW.
+WWWWWWW
+[HOME 14 GAME_ON]
+Greedy BT+ (W) played 1 1 2 0
+.B.B.BB
+BBB..BB
+.B.B.B.
+.....W.
+WW.....
+..W.WW.
+WWWWWWW
+[AWAY 15 GAME_ON]
+VTC PLAYER AB-ID BT;  (B) played 5 6 4 6
+.B.B.BB
+BBB..B.
+.B.B.BB
+.....W.
+WW.....
+..W.WW.
+WWWWWWW
+[HOME 16 GAME_ON]
+Greedy BT+ (W) played 3 5 4 6
+.B.B.BB
+BBB..B.
+.B.B.BW
+.......
+WW.....
+..W.WW.
+WWWWWWW
+[AWAY 17 GAME_ON]
+Greedy BT+ won. VTC PLAYER AB-ID BT;  DQd

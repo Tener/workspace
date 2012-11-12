@@ -1,0 +1,118 @@
+Random BT+ (W) played 1 5 2 6
+BBBBBBB
+BBBBBBB
+.......
+.......
+......W
+WWWWW.W
+WWWWWWW
+[AWAY 1 GAME_ON]
+VTC PLAYER AB-IT BT;  (B) played 5 3 4 3
+BBBBBBB
+BBB.BBB
+...B...
+.......
+......W
+WWWWW.W
+WWWWWWW
+[HOME 2 GAME_ON]
+Random BT+ (W) played 1 2 2 2
+BBBBBBB
+BBB.BBB
+...B...
+.......
+..W...W
+WW.WW.W
+WWWWWWW
+[AWAY 3 GAME_ON]
+VTC PLAYER AB-IT BT;  (B) played 5 6 4 6
+BBBBBBB
+BBB.BB.
+...B..B
+.......
+..W...W
+WW.WW.W
+WWWWWWW
+[HOME 4 GAME_ON]
+Random BT+ (W) played 0 2 1 2
+BBBBBBB
+BBB.BB.
+...B..B
+.......
+..W...W
+WWWWW.W
+WW.WWWW
+[AWAY 5 GAME_ON]
+VTC PLAYER AB-IT BT;  (B) played 5 2 4 1
+BBBBBBB
+BB..BB.
+.B.B..B
+.......
+..W...W
+WWWWW.W
+WW.WWWW
+[HOME 6 GAME_ON]
+Random BT+ (W) played 1 4 2 3
+BBBBBBB
+BB..BB.
+.B.B..B
+.......
+..WW..W
+WWWW..W
+WW.WWWW
+[AWAY 7 GAME_ON]
+VTC PLAYER AB-IT BT;  (B) played 5 5 4 5
+BBBBBBB
+BB..B..
+.B.B.BB
+.......
+..WW..W
+WWWW..W
+WW.WWWW
+[HOME 8 GAME_ON]
+Random BT+ (W) played 2 2 3 1
+BBBBBBB
+BB..B..
+.B.B.BB
+.W.....
+...W..W
+WWWW..W
+WW.WWWW
+[AWAY 9 GAME_ON]
+VTC PLAYER AB-IT BT;  (B) played 6 4 5 3
+BBBB.BB
+BB.BB..
+.B.B.BB
+.W.....
+...W..W
+WWWW..W
+WW.WWWW
+[HOME 10 GAME_ON]
+Random BT+ (W) played 2 3 3 4
+BBBB.BB
+BB.BB..
+.B.B.BB
+.W..W..
+......W
+WWWW..W
+WW.WWWW
+[AWAY 11 GAME_ON]
+VTC PLAYER AB-IT BT;  (B) played 4 5 3 4
+BBBB.BB
+BB.BB..
+.B.B..B
+.W..B..
+......W
+WWWW..W
+WW.WWWW
+[HOME 12 GAME_ON]
+Random BT+ (W) played 0 6 1 5
+BBBB.BB
+BB.BB..
+.B.B..B
+.W..B..
+......W
+WWWW.WW
+WW.WWW.
+[AWAY 13 GAME_ON]
+Random BT+ won. VTC PLAYER AB-IT BT;  DQd

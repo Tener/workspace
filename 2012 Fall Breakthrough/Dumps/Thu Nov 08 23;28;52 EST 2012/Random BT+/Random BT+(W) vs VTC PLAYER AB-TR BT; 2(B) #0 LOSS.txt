@@ -1,0 +1,164 @@
+Random BT+ (W) played 1 6 2 6
+BBBBBBB
+BBBBBBB
+.......
+.......
+......W
+WWWWWW.
+WWWWWWW
+[AWAY 1 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 5 3 4 4
+BBBBBBB
+BBB.BBB
+....B..
+.......
+......W
+WWWWWW.
+WWWWWWW
+[HOME 2 GAME_ON]
+Random BT+ (W) played 1 4 2 5
+BBBBBBB
+BBB.BBB
+....B..
+.......
+.....WW
+WWWW.W.
+WWWWWWW
+[AWAY 3 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 5 2 4 1
+BBBBBBB
+BB..BBB
+.B..B..
+.......
+.....WW
+WWWW.W.
+WWWWWWW
+[HOME 4 GAME_ON]
+Random BT+ (W) played 0 3 1 4
+BBBBBBB
+BB..BBB
+.B..B..
+.......
+.....WW
+WWWWWW.
+WWW.WWW
+[AWAY 5 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 5 4 4 5
+BBBBBBB
+BB...BB
+.B..BB.
+.......
+.....WW
+WWWWWW.
+WWW.WWW
+[HOME 6 GAME_ON]
+Random BT+ (W) played 1 5 2 4
+BBBBBBB
+BB...BB
+.B..BB.
+.......
+....WWW
+WWWWW..
+WWW.WWW
+[AWAY 7 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 6 4 5 3
+BBBB.BB
+BB.B.BB
+.B..BB.
+.......
+....WWW
+WWWWW..
+WWW.WWW
+[HOME 8 GAME_ON]
+Random BT+ (W) played 1 2 2 3
+BBBB.BB
+BB.B.BB
+.B..BB.
+.......
+...WWWW
+WW.WW..
+WWW.WWW
+[AWAY 9 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 5 1 4 2
+BBBB.BB
+B..B.BB
+.BB.BB.
+.......
+...WWWW
+WW.WW..
+WWW.WWW
+[HOME 10 GAME_ON]
+Random BT+ (W) played 2 3 3 4
+BBBB.BB
+B..B.BB
+.BB.BB.
+....W..
+....WWW
+WW.WW..
+WWW.WWW
+[AWAY 11 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 4 5 3 4
+BBBB.BB
+B..B.BB
+.BB.B..
+....B..
+....WWW
+WW.WW..
+WWW.WWW
+[HOME 12 GAME_ON]
+Random BT+ (W) played 0 6 1 5
+BBBB.BB
+B..B.BB
+.BB.B..
+....B..
+....WWW
+WW.WWW.
+WWW.WW.
+[AWAY 13 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 3 4 2 5
+BBBB.BB
+B..B.BB
+.BB.B..
+.......
+....WBW
+WW.WWW.
+WWW.WW.
+[HOME 14 GAME_ON]
+Random BT+ (W) played 1 0 2 0
+BBBB.BB
+B..B.BB
+.BB.B..
+.......
+W...WBW
+.W.WWW.
+WWW.WW.
+[AWAY 15 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 2 5 1 4
+BBBB.BB
+B..B.BB
+.BB.B..
+.......
+W...W.W
+.W.WBW.
+WWW.WW.
+[HOME 16 GAME_ON]
+Random BT+ (W) played 0 1 1 2
+BBBB.BB
+B..B.BB
+.BB.B..
+.......
+W...W.W
+.WWWBW.
+W.W.WW.
+[AWAY 17 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 1 4 0 3
+BBBB.BB
+B..B.BB
+.BB.B..
+.......
+W...W.W
+.WWW.W.
+W.WBWW.
+[HOME 18 AWAY_WIN]
+VTC PLAYER AB-TR BT; 2 (B) (419.990000 seconds remaining) won.
+Random BT+ had 419.990000 seconds remaining.

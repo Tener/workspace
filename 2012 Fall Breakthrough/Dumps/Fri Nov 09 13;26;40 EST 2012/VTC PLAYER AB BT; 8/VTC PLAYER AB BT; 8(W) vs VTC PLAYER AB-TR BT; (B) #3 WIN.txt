@@ -1,0 +1,100 @@
+VTC PLAYER AB BT; 8 (W) played 1 4 2 4
+BBBBBBB
+BBBBBBB
+.......
+.......
+....W..
+WWWW.WW
+WWWWWWW
+[AWAY 1 GAME_ON]
+VTC PLAYER AB-TR BT;  (B) played 5 4 4 4
+BBBBBBB
+BBBB.BB
+....B..
+.......
+....W..
+WWWW.WW
+WWWWWWW
+[HOME 2 GAME_ON]
+VTC PLAYER AB BT; 8 (W) played 1 6 2 6
+BBBBBBB
+BBBB.BB
+....B..
+.......
+....W.W
+WWWW.W.
+WWWWWWW
+[AWAY 3 GAME_ON]
+VTC PLAYER AB-TR BT;  (B) played 5 0 4 0
+BBBBBBB
+.BBB.BB
+B...B..
+.......
+....W.W
+WWWW.W.
+WWWWWWW
+[HOME 4 GAME_ON]
+VTC PLAYER AB BT; 8 (W) played 1 1 2 1
+BBBBBBB
+.BBB.BB
+B...B..
+.......
+.W..W.W
+W.WW.W.
+WWWWWWW
+[AWAY 5 GAME_ON]
+VTC PLAYER AB-TR BT;  (B) played 6 1 5 0
+B.BBBBB
+BBBB.BB
+B...B..
+.......
+.W..W.W
+W.WW.W.
+WWWWWWW
+[HOME 6 GAME_ON]
+VTC PLAYER AB BT; 8 (W) played 0 5 1 4
+B.BBBBB
+BBBB.BB
+B...B..
+.......
+.W..W.W
+W.WWWW.
+WWWWW.W
+[AWAY 7 GAME_ON]
+VTC PLAYER AB-TR BT;  (B) played 5 1 4 2
+B.BBBBB
+B.BB.BB
+B.B.B..
+.......
+.W..W.W
+W.WWWW.
+WWWWW.W
+[HOME 8 GAME_ON]
+VTC PLAYER AB BT; 8 (W) played 0 2 1 1
+B.BBBBB
+B.BB.BB
+B.B.B..
+.......
+.W..W.W
+WWWWWW.
+WW.WW.W
+[AWAY 9 GAME_ON]
+VTC PLAYER AB-TR BT;  (B) played 6 5 5 4
+B.BBB.B
+B.BBBBB
+B.B.B..
+.......
+.W..W.W
+WWWWWW.
+WW.WW.W
+[HOME 10 GAME_ON]
+VTC PLAYER AB BT; 8 (W) played 0 6 1 6
+B.BBB.B
+B.BBBBB
+B.B.B..
+.......
+.W..W.W
+WWWWWWW
+WW.WW..
+[AWAY 11 GAME_ON]
+VTC PLAYER AB BT; 8 won. VTC PLAYER AB-TR BT;  DQd

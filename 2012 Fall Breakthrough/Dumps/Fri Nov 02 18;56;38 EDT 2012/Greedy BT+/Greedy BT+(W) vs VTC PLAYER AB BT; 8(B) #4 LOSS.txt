@@ -1,0 +1,163 @@
+Greedy BT+ (W) played 1 0 2 1
+BBBBBBB
+BBBBBBB
+.......
+.......
+.W.....
+.WWWWWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 5 0 4 0
+BBBBBBB
+.BBBBBB
+B......
+.......
+.W.....
+.WWWWWW
+WWWWWWW
+[HOME 2 GAME_ON]
+Greedy BT+ (W) played 1 6 2 5
+BBBBBBB
+.BBBBBB
+B......
+.......
+.W...W.
+.WWWWW.
+WWWWWWW
+[AWAY 3 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 5 5 4 5
+BBBBBBB
+.BBBB.B
+B....B.
+.......
+.W...W.
+.WWWWW.
+WWWWWWW
+[HOME 4 GAME_ON]
+Greedy BT+ (W) played 1 2 2 3
+BBBBBBB
+.BBBB.B
+B....B.
+.......
+.W.W.W.
+.W.WWW.
+WWWWWWW
+[AWAY 5 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 5 2 4 1
+BBBBBBB
+.B.BB.B
+BB...B.
+.......
+.W.W.W.
+.W.WWW.
+WWWWWWW
+[HOME 6 GAME_ON]
+Greedy BT+ (W) played 0 5 1 6
+BBBBBBB
+.B.BB.B
+BB...B.
+.......
+.W.W.W.
+.W.WWWW
+WWWWW.W
+[AWAY 7 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 6 1 5 0
+B.BBBBB
+BB.BB.B
+BB...B.
+.......
+.W.W.W.
+.W.WWWW
+WWWWW.W
+[HOME 8 GAME_ON]
+Greedy BT+ (W) played 0 2 1 2
+B.BBBBB
+BB.BB.B
+BB...B.
+.......
+.W.W.W.
+.WWWWWW
+WW.WW.W
+[AWAY 9 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 5 6 4 6
+B.BBBBB
+BB.BB..
+BB...BB
+.......
+.W.W.W.
+.WWWWWW
+WW.WW.W
+[HOME 10 GAME_ON]
+Greedy BT+ (W) played 2 5 3 5
+B.BBBBB
+BB.BB..
+BB...BB
+.....W.
+.W.W...
+.WWWWWW
+WW.WW.W
+[AWAY 11 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 4 6 3 5
+B.BBBBB
+BB.BB..
+BB...B.
+.....B.
+.W.W...
+.WWWWWW
+WW.WW.W
+[HOME 12 GAME_ON]
+Greedy BT+ (W) played 2 3 3 2
+B.BBBBB
+BB.BB..
+BB...B.
+..W..B.
+.W.....
+.WWWWWW
+WW.WW.W
+[AWAY 13 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 4 1 3 2
+B.BBBBB
+BB.BB..
+B....B.
+..B..B.
+.W.....
+.WWWWWW
+WW.WW.W
+[HOME 14 GAME_ON]
+Greedy BT+ (W) played 2 1 3 2
+B.BBBBB
+BB.BB..
+B....B.
+..W..B.
+.......
+.WWWWWW
+WW.WW.W
+[AWAY 15 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 5 3 4 3
+B.BBBBB
+BB..B..
+B..B.B.
+..W..B.
+.......
+.WWWWWW
+WW.WW.W
+[HOME 16 GAME_ON]
+Greedy BT+ (W) played 3 2 4 3
+B.BBBBB
+BB..B..
+B..W.B.
+.....B.
+.......
+.WWWWWW
+WW.WW.W
+[AWAY 17 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 5 4 4 3
+B.BBBBB
+BB.....
+B..B.B.
+.....B.
+.......
+.WWWWWW
+WW.WW.W
+[HOME 18 GAME_ON]
+VTC PLAYER AB BT; 8 won. Greedy BT+ DQd

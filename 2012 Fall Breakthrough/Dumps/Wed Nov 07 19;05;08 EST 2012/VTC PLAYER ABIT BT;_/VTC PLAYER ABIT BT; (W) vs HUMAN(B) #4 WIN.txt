@@ -1,0 +1,10 @@
+VTC PLAYER ABIT BT;  (W) played 1 4 2 5
+BBBBBBB
+BBBBBBB
+.......
+.......
+.....W.
+WWWW.WW
+WWWWWWW
+[AWAY 1 GAME_ON]
+VTC PLAYER ABIT BT;  won. HUMAN DQd

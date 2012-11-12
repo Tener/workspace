@@ -1,0 +1,46 @@
+Greedy BT+ (W) played 1 4 2 4
+BBBBBBB
+BBBBBBB
+.......
+.......
+....W..
+WWWW.WW
+WWWWWWW
+[AWAY 1 GAME_ON]
+VTC PLAYER AB-TR BT;  (B) played 5 5 4 6
+BBBBBBB
+BBBBB.B
+......B
+.......
+....W..
+WWWW.WW
+WWWWWWW
+[HOME 2 GAME_ON]
+Greedy BT+ (W) played 1 1 2 1
+BBBBBBB
+BBBBB.B
+......B
+.......
+.W..W..
+W.WW.WW
+WWWWWWW
+[AWAY 3 GAME_ON]
+VTC PLAYER AB-TR BT;  (B) played 5 2 4 1
+BBBBBBB
+BB.BB.B
+.B....B
+.......
+.W..W..
+W.WW.WW
+WWWWWWW
+[HOME 4 GAME_ON]
+Greedy BT+ (W) played 1 5 2 5
+BBBBBBB
+BB.BB.B
+.B....B
+.......
+.W..WW.
+W.WW..W
+WWWWWWW
+[AWAY 5 GAME_ON]
+Greedy BT+ won. VTC PLAYER AB-TR BT;  DQd

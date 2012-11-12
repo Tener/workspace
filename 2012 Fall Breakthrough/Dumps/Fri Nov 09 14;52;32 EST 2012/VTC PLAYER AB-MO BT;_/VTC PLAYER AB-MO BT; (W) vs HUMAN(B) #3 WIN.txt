@@ -1,0 +1,46 @@
+VTC PLAYER AB-MO BT;  (W) played 1 0 2 0
+BBBBBBB
+BBBBBBB
+.......
+.......
+W......
+.WWWWWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+HUMAN (B) played 5 3 4 4
+BBBBBBB
+BBB.BBB
+....B..
+.......
+W......
+.WWWWWW
+WWWWWWW
+[HOME 2 GAME_ON]
+VTC PLAYER AB-MO BT;  (W) played 0 0 1 0
+BBBBBBB
+BBB.BBB
+....B..
+.......
+W......
+WWWWWWW
+.WWWWWW
+[AWAY 3 GAME_ON]
+HUMAN (B) played 5 5 4 5
+BBBBBBB
+BBB.B.B
+....BB.
+.......
+W......
+WWWWWWW
+.WWWWWW
+[HOME 4 GAME_ON]
+VTC PLAYER AB-MO BT;  (W) played 1 0 2 1
+BBBBBBB
+BBB.B.B
+....BB.
+.......
+WW.....
+.WWWWWW
+.WWWWWW
+[AWAY 5 GAME_ON]
+VTC PLAYER AB-MO BT;  won. HUMAN DQd

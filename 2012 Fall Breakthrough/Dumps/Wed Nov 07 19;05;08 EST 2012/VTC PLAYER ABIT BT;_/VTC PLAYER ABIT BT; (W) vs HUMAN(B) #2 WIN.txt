@@ -1,0 +1,317 @@
+VTC PLAYER ABIT BT;  (W) played 1 0 2 0
+BBBBBBB
+BBBBBBB
+.......
+.......
+W......
+.WWWWWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+HUMAN (B) played 5 4 4 4
+BBBBBBB
+BBBB.BB
+....B..
+.......
+W......
+.WWWWWW
+WWWWWWW
+[HOME 2 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 1 4 2 3
+BBBBBBB
+BBBB.BB
+....B..
+.......
+W..W...
+.WWW.WW
+WWWWWWW
+[AWAY 3 GAME_ON]
+HUMAN (B) played 4 4 3 5
+BBBBBBB
+BBBB.BB
+.......
+.....B.
+W..W...
+.WWW.WW
+WWWWWWW
+[HOME 4 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 2 0 3 0
+BBBBBBB
+BBBB.BB
+.......
+W....B.
+...W...
+.WWW.WW
+WWWWWWW
+[AWAY 5 GAME_ON]
+HUMAN (B) played 3 5 2 6
+BBBBBBB
+BBBB.BB
+.......
+W......
+...W..B
+.WWW.WW
+WWWWWWW
+[HOME 6 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 1 5 2 6
+BBBBBBB
+BBBB.BB
+.......
+W......
+...W..W
+.WWW..W
+WWWWWWW
+[AWAY 7 GAME_ON]
+HUMAN (B) played 5 5 4 5
+BBBBBBB
+BBBB..B
+.....B.
+W......
+...W..W
+.WWW..W
+WWWWWWW
+[HOME 8 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 2 3 3 3
+BBBBBBB
+BBBB..B
+.....B.
+W..W...
+......W
+.WWW..W
+WWWWWWW
+[AWAY 9 GAME_ON]
+HUMAN (B) played 4 5 3 5
+BBBBBBB
+BBBB..B
+.......
+W..W.B.
+......W
+.WWW..W
+WWWWWWW
+[HOME 10 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 2 6 3 5
+BBBBBBB
+BBBB..B
+.......
+W..W.W.
+.......
+.WWW..W
+WWWWWWW
+[AWAY 11 GAME_ON]
+HUMAN (B) played 5 3 4 3
+BBBBBBB
+BBB...B
+...B...
+W..W.W.
+.......
+.WWW..W
+WWWWWWW
+[HOME 12 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 1 1 2 0
+BBBBBBB
+BBB...B
+...B...
+W..W.W.
+W......
+..WW..W
+WWWWWWW
+[AWAY 13 GAME_ON]
+HUMAN (B) played 4 3 3 4
+BBBBBBB
+BBB...B
+.......
+W..WBW.
+W......
+..WW..W
+WWWWWWW
+[HOME 14 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 0 0 1 0
+BBBBBBB
+BBB...B
+.......
+W..WBW.
+W......
+W.WW..W
+.WWWWWW
+[AWAY 15 GAME_ON]
+HUMAN (B) played 3 4 2 5
+BBBBBBB
+BBB...B
+.......
+W..W.W.
+W....B.
+W.WW..W
+.WWWWWW
+[HOME 16 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 1 6 2 5
+BBBBBBB
+BBB...B
+.......
+W..W.W.
+W....W.
+W.WW...
+.WWWWWW
+[AWAY 17 GAME_ON]
+HUMAN (B) played 5 2 4 2
+BBBBBBB
+BB....B
+..B....
+W..W.W.
+W....W.
+W.WW...
+.WWWWWW
+[HOME 18 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 3 3 4 2
+BBBBBBB
+BB....B
+..W....
+W....W.
+W....W.
+W.WW...
+.WWWWWW
+[AWAY 19 GAME_ON]
+HUMAN (B) played 5 1 4 1
+BBBBBBB
+B.....B
+.BW....
+W....W.
+W....W.
+W.WW...
+.WWWWWW
+[HOME 20 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 3 0 4 1
+BBBBBBB
+B.....B
+.WW....
+.....W.
+W....W.
+W.WW...
+.WWWWWW
+[AWAY 21 GAME_ON]
+HUMAN (B) played 5 6 4 6
+BBBBBBB
+B......
+.WW...B
+.....W.
+W....W.
+W.WW...
+.WWWWWW
+[HOME 22 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 3 5 4 6
+BBBBBBB
+B......
+.WW...W
+.......
+W....W.
+W.WW...
+.WWWWWW
+[AWAY 23 GAME_ON]
+HUMAN (B) played 5 0 4 0
+BBBBBBB
+.......
+BWW...W
+.......
+W....W.
+W.WW...
+.WWWWWW
+[HOME 24 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 1 2 2 3
+BBBBBBB
+.......
+BWW...W
+.......
+W..W.W.
+W..W...
+.WWWWWW
+[AWAY 25 GAME_ON]
+HUMAN (B) played 4 0 3 1
+BBBBBBB
+.......
+.WW...W
+.B.....
+W..W.W.
+W..W...
+.WWWWWW
+[HOME 26 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 2 0 3 1
+BBBBBBB
+.......
+.WW...W
+.W.....
+...W.W.
+W..W...
+.WWWWWW
+[AWAY 27 GAME_ON]
+HUMAN (B) played 6 4 5 4
+BBBB.BB
+....B..
+.WW...W
+.W.....
+...W.W.
+W..W...
+.WWWWWW
+[HOME 28 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 2 3 3 3
+BBBB.BB
+....B..
+.WW...W
+.W.W...
+.....W.
+W..W...
+.WWWWWW
+[AWAY 29 GAME_ON]
+HUMAN (B) played 5 4 4 5
+BBBB.BB
+.......
+.WW..BW
+.W.W...
+.....W.
+W..W...
+.WWWWWW
+[HOME 30 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 1 0 2 1
+BBBB.BB
+.......
+.WW..BW
+.W.W...
+.W...W.
+...W...
+.WWWWWW
+[AWAY 31 GAME_ON]
+HUMAN (B) played 4 5 3 5
+BBBB.BB
+.......
+.WW...W
+.W.W.B.
+.W...W.
+...W...
+.WWWWWW
+[HOME 32 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 4 2 5 2
+BBBB.BB
+..W....
+.W....W
+.W.W.B.
+.W...W.
+...W...
+.WWWWWW
+[AWAY 33 GAME_ON]
+HUMAN (B) played 3 5 2 6
+BBBB.BB
+..W....
+.W....W
+.W.W...
+.W...WB
+...W...
+.WWWWWW
+[HOME 34 GAME_ON]
+VTC PLAYER ABIT BT;  (W) played 5 2 6 3
+BBBW.BB
+.......
+.W....W
+.W.W...
+.W...WB
+...W...
+.WWWWWW
+[AWAY 35 HOME_WIN]
+VTC PLAYER ABIT BT;  (W) (419.962000 seconds remaining) won.
+HUMAN had 323.993000 seconds remaining.

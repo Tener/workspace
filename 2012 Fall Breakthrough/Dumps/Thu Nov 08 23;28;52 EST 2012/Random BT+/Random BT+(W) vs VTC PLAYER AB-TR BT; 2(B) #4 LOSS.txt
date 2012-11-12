@@ -1,0 +1,146 @@
+Random BT+ (W) played 1 4 2 5
+BBBBBBB
+BBBBBBB
+.......
+.......
+.....W.
+WWWW.WW
+WWWWWWW
+[AWAY 1 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 5 1 4 1
+BBBBBBB
+B.BBBBB
+.B.....
+.......
+.....W.
+WWWW.WW
+WWWWWWW
+[HOME 2 GAME_ON]
+Random BT+ (W) played 1 0 2 0
+BBBBBBB
+B.BBBBB
+.B.....
+.......
+W....W.
+.WWW.WW
+WWWWWWW
+[AWAY 3 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 5 4 4 5
+BBBBBBB
+B.BB.BB
+.B...B.
+.......
+W....W.
+.WWW.WW
+WWWWWWW
+[HOME 4 GAME_ON]
+Random BT+ (W) played 0 5 1 4
+BBBBBBB
+B.BB.BB
+.B...B.
+.......
+W....W.
+.WWWWWW
+WWWWW.W
+[AWAY 5 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 5 2 4 3
+BBBBBBB
+B..B.BB
+.B.B.B.
+.......
+W....W.
+.WWWWWW
+WWWWW.W
+[HOME 6 GAME_ON]
+Random BT+ (W) played 1 4 2 4
+BBBBBBB
+B..B.BB
+.B.B.B.
+.......
+W...WW.
+.WWW.WW
+WWWWW.W
+[AWAY 7 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 4 1 3 0
+BBBBBBB
+B..B.BB
+...B.B.
+B......
+W...WW.
+.WWW.WW
+WWWWW.W
+[HOME 8 GAME_ON]
+Random BT+ (W) played 2 4 3 4
+BBBBBBB
+B..B.BB
+...B.B.
+B...W..
+W....W.
+.WWW.WW
+WWWWW.W
+[AWAY 9 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 4 5 3 4
+BBBBBBB
+B..B.BB
+...B...
+B...B..
+W....W.
+.WWW.WW
+WWWWW.W
+[HOME 10 GAME_ON]
+Random BT+ (W) played 1 1 2 1
+BBBBBBB
+B..B.BB
+...B...
+B...B..
+WW...W.
+..WW.WW
+WWWWW.W
+[AWAY 11 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 3 4 2 5
+BBBBBBB
+B..B.BB
+...B...
+B......
+WW...B.
+..WW.WW
+WWWWW.W
+[HOME 12 GAME_ON]
+Random BT+ (W) played 1 5 2 6
+BBBBBBB
+B..B.BB
+...B...
+B......
+WW...BW
+..WW..W
+WWWWW.W
+[AWAY 13 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 2 5 1 6
+BBBBBBB
+B..B.BB
+...B...
+B......
+WW....W
+..WW..B
+WWWWW.W
+[HOME 14 GAME_ON]
+Random BT+ (W) played 0 4 1 5
+BBBBBBB
+B..B.BB
+...B...
+B......
+WW....W
+..WW.WB
+WWWW..W
+[AWAY 15 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (B) played 1 6 0 5
+BBBBBBB
+B..B.BB
+...B...
+B......
+WW....W
+..WW.W.
+WWWW.BW
+[HOME 16 AWAY_WIN]
+VTC PLAYER AB-TR BT; 2 (B) (419.992000 seconds remaining) won.
+Random BT+ had 419.993000 seconds remaining.

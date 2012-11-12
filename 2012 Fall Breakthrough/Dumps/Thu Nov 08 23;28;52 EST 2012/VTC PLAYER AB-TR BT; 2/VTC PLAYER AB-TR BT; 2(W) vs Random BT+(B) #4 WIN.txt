@@ -1,0 +1,155 @@
+VTC PLAYER AB-TR BT; 2 (W) played 1 3 2 4
+BBBBBBB
+BBBBBBB
+.......
+.......
+....W..
+WWW.WWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+Random BT+ (B) played 5 6 4 6
+BBBBBBB
+BBBBBB.
+......B
+.......
+....W..
+WWW.WWW
+WWWWWWW
+[HOME 2 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (W) played 1 0 2 0
+BBBBBBB
+BBBBBB.
+......B
+.......
+W...W..
+.WW.WWW
+WWWWWWW
+[AWAY 3 GAME_ON]
+Random BT+ (B) played 5 1 4 2
+BBBBBBB
+B.BBBB.
+..B...B
+.......
+W...W..
+.WW.WWW
+WWWWWWW
+[HOME 4 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (W) played 1 1 2 2
+BBBBBBB
+B.BBBB.
+..B...B
+.......
+W.W.W..
+..W.WWW
+WWWWWWW
+[AWAY 5 GAME_ON]
+Random BT+ (B) played 5 4 4 5
+BBBBBBB
+B.BB.B.
+..B..BB
+.......
+W.W.W..
+..W.WWW
+WWWWWWW
+[HOME 6 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (W) played 0 1 1 0
+BBBBBBB
+B.BB.B.
+..B..BB
+.......
+W.W.W..
+W.W.WWW
+W.WWWWW
+[AWAY 7 GAME_ON]
+Random BT+ (B) played 5 5 4 4
+BBBBBBB
+B.BB...
+..B.BBB
+.......
+W.W.W..
+W.W.WWW
+W.WWWWW
+[HOME 8 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (W) played 0 2 1 1
+BBBBBBB
+B.BB...
+..B.BBB
+.......
+W.W.W..
+WWW.WWW
+W..WWWW
+[AWAY 9 GAME_ON]
+Random BT+ (B) played 4 2 3 3
+BBBBBBB
+B.BB...
+....BBB
+...B...
+W.W.W..
+WWW.WWW
+W..WWWW
+[HOME 10 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (W) played 2 2 3 3
+BBBBBBB
+B.BB...
+....BBB
+...W...
+W...W..
+WWW.WWW
+W..WWWW
+[AWAY 11 GAME_ON]
+Random BT+ (B) played 6 5 5 6
+BBBBB.B
+B.BB..B
+....BBB
+...W...
+W...W..
+WWW.WWW
+W..WWWW
+[HOME 12 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (W) played 3 3 4 4
+BBBBB.B
+B.BB..B
+....WBB
+.......
+W...W..
+WWW.WWW
+W..WWWW
+[AWAY 13 GAME_ON]
+Random BT+ (B) played 5 0 4 1
+BBBBB.B
+..BB..B
+.B..WBB
+.......
+W...W..
+WWW.WWW
+W..WWWW
+[HOME 14 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (W) played 4 4 5 3
+BBBBB.B
+..BW..B
+.B...BB
+.......
+W...W..
+WWW.WWW
+W..WWWW
+[AWAY 15 GAME_ON]
+Random BT+ (B) played 5 2 4 3
+BBBBB.B
+...W..B
+.B.B.BB
+.......
+W...W..
+WWW.WWW
+W..WWWW
+[HOME 16 GAME_ON]
+VTC PLAYER AB-TR BT; 2 (W) played 5 3 6 2
+BBWBB.B
+......B
+.B.B.BB
+.......
+W...W..
+WWW.WWW
+W..WWWW
+[AWAY 17 HOME_WIN]
+VTC PLAYER AB-TR BT; 2 (W) (419.991000 seconds remaining) won.
+Random BT+ had 419.993000 seconds remaining.

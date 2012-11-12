@@ -1,0 +1,136 @@
+Greedy BT+ (W) played 1 2 2 1
+BBBBBBB
+BBBBBBB
+.......
+.......
+.W.....
+WW.WWWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+VTC PLAYER AB-TR BT;  (B) played 5 3 4 3
+BBBBBBB
+BBB.BBB
+...B...
+.......
+.W.....
+WW.WWWW
+WWWWWWW
+[HOME 2 GAME_ON]
+Greedy BT+ (W) played 1 5 2 5
+BBBBBBB
+BBB.BBB
+...B...
+.......
+.W...W.
+WW.WW.W
+WWWWWWW
+[AWAY 3 GAME_ON]
+VTC PLAYER AB-TR BT;  (B) played 6 3 5 3
+BBB.BBB
+BBBBBBB
+...B...
+.......
+.W...W.
+WW.WW.W
+WWWWWWW
+[HOME 4 GAME_ON]
+Greedy BT+ (W) played 2 1 3 1
+BBB.BBB
+BBBBBBB
+...B...
+.W.....
+.....W.
+WW.WW.W
+WWWWWWW
+[AWAY 5 GAME_ON]
+VTC PLAYER AB-TR BT;  (B) played 5 5 4 5
+BBB.BBB
+BBBBB.B
+...B.B.
+.W.....
+.....W.
+WW.WW.W
+WWWWWWW
+[HOME 6 GAME_ON]
+Greedy BT+ (W) played 1 4 2 4
+BBB.BBB
+BBBBB.B
+...B.B.
+.W.....
+....WW.
+WW.W..W
+WWWWWWW
+[AWAY 7 GAME_ON]
+VTC PLAYER AB-TR BT;  (B) played 5 2 4 2
+BBB.BBB
+BB.BB.B
+..BB.B.
+.W.....
+....WW.
+WW.W..W
+WWWWWWW
+[HOME 8 GAME_ON]
+Greedy BT+ (W) played 3 1 4 2
+BBB.BBB
+BB.BB.B
+..WB.B.
+.......
+....WW.
+WW.W..W
+WWWWWWW
+[AWAY 9 GAME_ON]
+VTC PLAYER AB-TR BT;  (B) played 5 1 4 2
+BBB.BBB
+B..BB.B
+..BB.B.
+.......
+....WW.
+WW.W..W
+WWWWWWW
+[HOME 10 GAME_ON]
+Greedy BT+ (W) played 1 0 2 0
+BBB.BBB
+B..BB.B
+..BB.B.
+.......
+W...WW.
+.W.W..W
+WWWWWWW
+[AWAY 11 GAME_ON]
+VTC PLAYER AB-TR BT;  (B) played 6 4 5 5
+BBB..BB
+B..BBBB
+..BB.B.
+.......
+W...WW.
+.W.W..W
+WWWWWWW
+[HOME 12 GAME_ON]
+Greedy BT+ (W) played 0 3 1 2
+BBB..BB
+B..BBBB
+..BB.B.
+.......
+W...WW.
+.WWW..W
+WWW.WWW
+[AWAY 13 GAME_ON]
+VTC PLAYER AB-TR BT;  (B) played 5 5 4 4
+BBB..BB
+B..BB.B
+..BBBB.
+.......
+W...WW.
+.WWW..W
+WWW.WWW
+[HOME 14 GAME_ON]
+Greedy BT+ (W) played 2 5 3 5
+BBB..BB
+B..BB.B
+..BBBB.
+.....W.
+W...W..
+.WWW..W
+WWW.WWW
+[AWAY 15 GAME_ON]
+Greedy BT+ won. VTC PLAYER AB-TR BT;  DQd

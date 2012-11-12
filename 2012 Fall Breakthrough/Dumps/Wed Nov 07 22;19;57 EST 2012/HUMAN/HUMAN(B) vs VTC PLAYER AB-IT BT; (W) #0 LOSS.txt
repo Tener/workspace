@@ -1,0 +1,28 @@
+VTC PLAYER AB-IT BT;  (W) played 1 4 2 3
+BBBBBBB
+BBBBBBB
+.......
+.......
+...W...
+WWWW.WW
+WWWWWWW
+[AWAY 1 GAME_ON]
+HUMAN (B) played 5 4 4 4
+BBBBBBB
+BBBB.BB
+....B..
+.......
+...W...
+WWWW.WW
+WWWWWWW
+[HOME 2 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 1 3 2 2
+BBBBBBB
+BBBB.BB
+....B..
+.......
+..WW...
+WWW..WW
+WWWWWWW
+[AWAY 3 GAME_ON]
+VTC PLAYER AB-IT BT;  won. HUMAN DQd

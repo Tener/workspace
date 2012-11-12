@@ -1,0 +1,83 @@
+VTC PLAYER MM BT; 2 (W) played 1 6 2 5
+BBBBBBB
+BBBBBBB
+.......
+.......
+.....W.
+WWWWWW.
+WWWWWWW
+[AWAY 1 GAME_ON]
+HUMAN (B) played 5 6 4 6
+BBBBBBB
+BBBBBB.
+......B
+.......
+.....W.
+WWWWWW.
+WWWWWWW
+[HOME 2 GAME_ON]
+VTC PLAYER MM BT; 2 (W) played 2 5 3 4
+BBBBBBB
+BBBBBB.
+......B
+....W..
+.......
+WWWWWW.
+WWWWWWW
+[AWAY 3 GAME_ON]
+HUMAN (B) played 4 6 3 6
+BBBBBBB
+BBBBBB.
+.......
+....W.B
+.......
+WWWWWW.
+WWWWWWW
+[HOME 4 GAME_ON]
+VTC PLAYER MM BT; 2 (W) played 3 4 4 3
+BBBBBBB
+BBBBBB.
+...W...
+......B
+.......
+WWWWWW.
+WWWWWWW
+[AWAY 5 GAME_ON]
+HUMAN (B) played 3 6 2 6
+BBBBBBB
+BBBBBB.
+...W...
+.......
+......B
+WWWWWW.
+WWWWWWW
+[HOME 6 GAME_ON]
+VTC PLAYER MM BT; 2 (W) played 4 3 5 2
+BBBBBBB
+BBWBBB.
+.......
+.......
+......B
+WWWWWW.
+WWWWWWW
+[AWAY 7 GAME_ON]
+HUMAN (B) played 2 6 1 5
+BBBBBBB
+BBWBBB.
+.......
+.......
+.......
+WWWWWB.
+WWWWWWW
+[HOME 8 GAME_ON]
+VTC PLAYER MM BT; 2 (W) played 5 2 6 1
+BWBBBBB
+BB.BBB.
+.......
+.......
+.......
+WWWWWB.
+WWWWWWW
+[AWAY 9 HOME_WIN]
+VTC PLAYER MM BT; 2 (W) (419.964000 seconds remaining) won.
+HUMAN had 339.945000 seconds remaining.

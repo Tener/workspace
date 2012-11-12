@@ -1,0 +1,488 @@
+VTC PLAYER AB-IT BT;  (W) played 1 3 2 4
+BBBBBBB
+BBBBBBB
+.......
+.......
+....W..
+WWW.WWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 5 4 4 5
+BBBBBBB
+BBBB.BB
+.....B.
+.......
+....W..
+WWW.WWW
+WWWWWWW
+[HOME 2 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 1 1 2 1
+BBBBBBB
+BBBB.BB
+.....B.
+.......
+.W..W..
+W.W.WWW
+WWWWWWW
+[AWAY 3 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 6 4 5 4
+BBBB.BB
+BBBBBBB
+.....B.
+.......
+.W..W..
+W.W.WWW
+WWWWWWW
+[HOME 4 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 1 5 2 6
+BBBB.BB
+BBBBBBB
+.....B.
+.......
+.W..W.W
+W.W.W.W
+WWWWWWW
+[AWAY 5 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 5 0 4 1
+BBBB.BB
+.BBBBBB
+.B...B.
+.......
+.W..W.W
+W.W.W.W
+WWWWWWW
+[HOME 6 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 0 3 1 3
+BBBB.BB
+.BBBBBB
+.B...B.
+.......
+.W..W.W
+W.WWW.W
+WWW.WWW
+[AWAY 7 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 5 2 4 3
+BBBB.BB
+.B.BBBB
+.B.B.B.
+.......
+.W..W.W
+W.WWW.W
+WWW.WWW
+[HOME 8 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 0 4 1 5
+BBBB.BB
+.B.BBBB
+.B.B.B.
+.......
+.W..W.W
+W.WWWWW
+WWW..WW
+[AWAY 9 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 5 6 4 6
+BBBB.BB
+.B.BBB.
+.B.B.BB
+.......
+.W..W.W
+W.WWWWW
+WWW..WW
+[HOME 10 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 1 3 2 2
+BBBB.BB
+.B.BBB.
+.B.B.BB
+.......
+.WW.W.W
+W.W.WWW
+WWW..WW
+[AWAY 11 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 6 2 5 2
+BB.B.BB
+.BBBBB.
+.B.B.BB
+.......
+.WW.W.W
+W.W.WWW
+WWW..WW
+[HOME 12 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 1 0 2 0
+BB.B.BB
+.BBBBB.
+.B.B.BB
+.......
+WWW.W.W
+..W.WWW
+WWW..WW
+[AWAY 13 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 5 5 4 4
+BB.B.BB
+.BBBB..
+.B.BBBB
+.......
+WWW.W.W
+..W.WWW
+WWW..WW
+[HOME 14 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 0 0 1 0
+BB.B.BB
+.BBBB..
+.B.BBBB
+.......
+WWW.W.W
+W.W.WWW
+.WW..WW
+[AWAY 15 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 6 0 5 0
+.B.B.BB
+BBBBB..
+.B.BBBB
+.......
+WWW.W.W
+W.W.WWW
+.WW..WW
+[HOME 16 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 1 4 2 3
+.B.B.BB
+BBBBB..
+.B.BBBB
+.......
+WWWWW.W
+W.W..WW
+.WW..WW
+[AWAY 17 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 6 5 5 6
+.B.B..B
+BBBBB.B
+.B.BBBB
+.......
+WWWWW.W
+W.W..WW
+.WW..WW
+[HOME 18 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 0 1 1 1
+.B.B..B
+BBBBB.B
+.B.BBBB
+.......
+WWWWW.W
+WWW..WW
+..W..WW
+[AWAY 19 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 5 0 4 0
+.B.B..B
+.BBBB.B
+BB.BBBB
+.......
+WWWWW.W
+WWW..WW
+..W..WW
+[HOME 20 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 0 5 1 4
+.B.B..B
+.BBBB.B
+BB.BBBB
+.......
+WWWWW.W
+WWW.WWW
+..W...W
+[AWAY 21 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 5 3 4 2
+.B.B..B
+.BB.B.B
+BBBBBBB
+.......
+WWWWW.W
+WWW.WWW
+..W...W
+[HOME 22 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 0 2 1 3
+.B.B..B
+.BB.B.B
+BBBBBBB
+.......
+WWWWW.W
+WWWWWWW
+......W
+[AWAY 23 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 6 6 5 5
+.B.B...
+.BB.BBB
+BBBBBBB
+.......
+WWWWW.W
+WWWWWWW
+......W
+[HOME 24 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 2 1 3 1
+.B.B...
+.BB.BBB
+BBBBBBB
+.W.....
+W.WWW.W
+WWWWWWW
+......W
+[AWAY 25 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 6 1 5 0
+...B...
+BBB.BBB
+BBBBBBB
+.W.....
+W.WWW.W
+WWWWWWW
+......W
+[HOME 26 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 1 2 2 1
+...B...
+BBB.BBB
+BBBBBBB
+.W.....
+WWWWW.W
+WW.WWWW
+......W
+[AWAY 27 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 4 0 3 1
+...B...
+BBB.BBB
+.BBBBBB
+.B.....
+WWWWW.W
+WW.WWWW
+......W
+[HOME 28 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 2 0 3 1
+...B...
+BBB.BBB
+.BBBBBB
+.W.....
+.WWWW.W
+WW.WWWW
+......W
+[AWAY 29 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 4 6 3 6
+...B...
+BBB.BBB
+.BBBBB.
+.W....B
+.WWWW.W
+WW.WWWW
+......W
+[HOME 30 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 1 0 2 0
+...B...
+BBB.BBB
+.BBBBB.
+.W....B
+WWWWW.W
+.W.WWWW
+......W
+[AWAY 31 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 5 5 4 6
+...B...
+BBB.B.B
+.BBBBBB
+.W....B
+WWWWW.W
+.W.WWWW
+......W
+[HOME 32 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 1 6 2 5
+...B...
+BBB.B.B
+.BBBBBB
+.W....B
+WWWWWWW
+.W.WWW.
+......W
+[AWAY 33 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 3 6 2 5
+...B...
+BBB.B.B
+.BBBBBB
+.W.....
+WWWWWBW
+.W.WWW.
+......W
+[HOME 34 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 1 4 2 5
+...B...
+BBB.B.B
+.BBBBBB
+.W.....
+WWWWWWW
+.W.W.W.
+......W
+[AWAY 35 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 4 4 3 4
+...B...
+BBB.B.B
+.BBB.BB
+.W..B..
+WWWWWWW
+.W.W.W.
+......W
+[HOME 36 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 2 3 3 4
+...B...
+BBB.B.B
+.BBB.BB
+.W..W..
+WWW.WWW
+.W.W.W.
+......W
+[AWAY 37 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 4 5 3 4
+...B...
+BBB.B.B
+.BBB..B
+.W..B..
+WWW.WWW
+.W.W.W.
+......W
+[HOME 38 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 3 1 4 2
+...B...
+BBB.B.B
+.BWB..B
+....B..
+WWW.WWW
+.W.W.W.
+......W
+[AWAY 39 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 5 1 4 2
+...B...
+B.B.B.B
+.BBB..B
+....B..
+WWW.WWW
+.W.W.W.
+......W
+[HOME 40 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 2 1 3 1
+...B...
+B.B.B.B
+.BBB..B
+.W..B..
+W.W.WWW
+.W.W.W.
+......W
+[AWAY 41 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 4 2 3 1
+...B...
+B.B.B.B
+.B.B..B
+.B..B..
+W.W.WWW
+.W.W.W.
+......W
+[HOME 42 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 2 6 3 5
+...B...
+B.B.B.B
+.B.B..B
+.B..BW.
+W.W.WW.
+.W.W.W.
+......W
+[AWAY 43 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 3 1 2 2
+...B...
+B.B.B.B
+.B.B..B
+....BW.
+W.B.WW.
+.W.W.W.
+......W
+[HOME 44 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 1 3 2 2
+...B...
+B.B.B.B
+.B.B..B
+....BW.
+W.W.WW.
+.W...W.
+......W
+[AWAY 45 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 3 4 2 3
+...B...
+B.B.B.B
+.B.B..B
+.....W.
+W.WBWW.
+.W...W.
+......W
+[HOME 46 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 2 0 3 0
+...B...
+B.B.B.B
+.B.B..B
+W....W.
+..WBWW.
+.W...W.
+......W
+[AWAY 47 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 2 3 1 2
+...B...
+B.B.B.B
+.B.B..B
+W....W.
+..W.WW.
+.WB..W.
+......W
+[HOME 48 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 2 5 3 4
+...B...
+B.B.B.B
+.B.B..B
+W...WW.
+..W.W..
+.WB..W.
+......W
+[AWAY 49 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 4 1 3 0
+...B...
+B.B.B.B
+...B..B
+B...WW.
+..W.W..
+.WB..W.
+......W
+[HOME 50 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 1 1 2 1
+...B...
+B.B.B.B
+...B..B
+B...WW.
+.WW.W..
+..B..W.
+......W
+[AWAY 51 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 5 0 4 0
+...B...
+..B.B.B
+B..B..B
+B...WW.
+.WW.W..
+..B..W.
+......W
+[HOME 52 GAME_ON]
+VTC PLAYER AB-IT BT;  (W) played 3 5 4 5
+...B...
+..B.B.B
+B..B.WB
+B...W..
+.WW.W..
+..B..W.
+......W
+[AWAY 53 GAME_ON]
+VTC PLAYER AB BT; 8 (B) played 1 2 0 1
+...B...
+..B.B.B
+B..B.WB
+B...W..
+.WW.W..
+.....W.
+.B....W
+[HOME 54 AWAY_WIN]
+VTC PLAYER AB BT; 8 (B) (296.694000 seconds remaining) won.
+VTC PLAYER AB-IT BT;  had 217.852000 seconds remaining.

@@ -1,0 +1,317 @@
+VTC PLAYER MM BT; 5 (W) played 1 4 2 4
+BBBBBBB
+BBBBBBB
+.......
+.......
+....W..
+WWWW.WW
+WWWWWWW
+[AWAY 1 GAME_ON]
+Greedy BT+ (B) played 5 3 4 4
+BBBBBBB
+BBB.BBB
+....B..
+.......
+....W..
+WWWW.WW
+WWWWWWW
+[HOME 2 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 1 0 2 1
+BBBBBBB
+BBB.BBB
+....B..
+.......
+.W..W..
+.WWW.WW
+WWWWWWW
+[AWAY 3 GAME_ON]
+Greedy BT+ (B) played 5 1 4 0
+BBBBBBB
+B.B.BBB
+B...B..
+.......
+.W..W..
+.WWW.WW
+WWWWWWW
+[HOME 4 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 0 4 1 4
+BBBBBBB
+B.B.BBB
+B...B..
+.......
+.W..W..
+.WWWWWW
+WWWW.WW
+[AWAY 5 GAME_ON]
+Greedy BT+ (B) played 6 0 5 1
+.BBBBBB
+BBB.BBB
+B...B..
+.......
+.W..W..
+.WWWWWW
+WWWW.WW
+[HOME 6 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 1 2 2 3
+.BBBBBB
+BBB.BBB
+B...B..
+.......
+.W.WW..
+.W.WWWW
+WWWW.WW
+[AWAY 7 GAME_ON]
+Greedy BT+ (B) played 6 3 5 3
+.BB.BBB
+BBBBBBB
+B...B..
+.......
+.W.WW..
+.W.WWWW
+WWWW.WW
+[HOME 8 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 1 6 2 5
+.BB.BBB
+BBBBBBB
+B...B..
+.......
+.W.WWW.
+.W.WWW.
+WWWW.WW
+[AWAY 9 GAME_ON]
+Greedy BT+ (B) played 4 0 3 1
+.BB.BBB
+BBBBBBB
+....B..
+.B.....
+.W.WWW.
+.W.WWW.
+WWWW.WW
+[HOME 10 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 0 2 1 2
+.BB.BBB
+BBBBBBB
+....B..
+.B.....
+.W.WWW.
+.WWWWW.
+WW.W.WW
+[AWAY 11 GAME_ON]
+Greedy BT+ (B) played 5 4 4 3
+.BB.BBB
+BBBB.BB
+...BB..
+.B.....
+.W.WWW.
+.WWWWW.
+WW.W.WW
+[HOME 12 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 1 2 2 2
+.BB.BBB
+BBBB.BB
+...BB..
+.B.....
+.WWWWW.
+.W.WWW.
+WW.W.WW
+[AWAY 13 GAME_ON]
+Greedy BT+ (B) played 3 1 2 2
+.BB.BBB
+BBBB.BB
+...BB..
+.......
+.WBWWW.
+.W.WWW.
+WW.W.WW
+[HOME 14 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 1 3 2 2
+.BB.BBB
+BBBB.BB
+...BB..
+.......
+.WWWWW.
+.W..WW.
+WW.W.WW
+[AWAY 15 GAME_ON]
+Greedy BT+ (B) played 4 4 3 4
+.BB.BBB
+BBBB.BB
+...B...
+....B..
+.WWWWW.
+.W..WW.
+WW.W.WW
+[HOME 16 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 2 5 3 4
+.BB.BBB
+BBBB.BB
+...B...
+....W..
+.WWWW..
+.W..WW.
+WW.W.WW
+[AWAY 17 GAME_ON]
+Greedy BT+ (B) played 4 3 3 4
+.BB.BBB
+BBBB.BB
+.......
+....B..
+.WWWW..
+.W..WW.
+WW.W.WW
+[HOME 18 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 2 3 3 4
+.BB.BBB
+BBBB.BB
+.......
+....W..
+.WW.W..
+.W..WW.
+WW.W.WW
+[AWAY 19 GAME_ON]
+Greedy BT+ (B) played 5 5 4 6
+.BB.BBB
+BBBB..B
+......B
+....W..
+.WW.W..
+.W..WW.
+WW.W.WW
+[HOME 20 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 0 3 1 2
+.BB.BBB
+BBBB..B
+......B
+....W..
+.WW.W..
+.WW.WW.
+WW...WW
+[AWAY 21 GAME_ON]
+Greedy BT+ (B) played 5 2 4 3
+.BB.BBB
+BB.B..B
+...B..B
+....W..
+.WW.W..
+.WW.WW.
+WW...WW
+[HOME 22 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 3 4 4 3
+.BB.BBB
+BB.B..B
+...W..B
+.......
+.WW.W..
+.WW.WW.
+WW...WW
+[AWAY 23 GAME_ON]
+Greedy BT+ (B) played 6 2 5 2
+.B..BBB
+BBBB..B
+...W..B
+.......
+.WW.W..
+.WW.WW.
+WW...WW
+[HOME 24 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 2 1 3 2
+.B..BBB
+BBBB..B
+...W..B
+..W....
+..W.W..
+.WW.WW.
+WW...WW
+[AWAY 25 GAME_ON]
+Greedy BT+ (B) played 5 2 4 3
+.B..BBB
+BB.B..B
+...B..B
+..W....
+..W.W..
+.WW.WW.
+WW...WW
+[HOME 26 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 3 2 4 3
+.B..BBB
+BB.B..B
+...W..B
+.......
+..W.W..
+.WW.WW.
+WW...WW
+[AWAY 27 GAME_ON]
+Greedy BT+ (B) played 6 5 5 4
+.B..B.B
+BB.BB.B
+...W..B
+.......
+..W.W..
+.WW.WW.
+WW...WW
+[HOME 28 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 4 3 5 4
+.B..B.B
+BB.BW.B
+......B
+.......
+..W.W..
+.WW.WW.
+WW...WW
+[AWAY 29 GAME_ON]
+Greedy BT+ (B) played 5 1 4 1
+.B..B.B
+B..BW.B
+.B....B
+.......
+..W.W..
+.WW.WW.
+WW...WW
+[HOME 30 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 1 1 2 1
+.B..B.B
+B..BW.B
+.B....B
+.......
+.WW.W..
+..W.WW.
+WW...WW
+[AWAY 31 GAME_ON]
+Greedy BT+ (B) played 6 1 5 2
+....B.B
+B.BBW.B
+.B....B
+.......
+.WW.W..
+..W.WW.
+WW...WW
+[HOME 32 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 2 4 3 4
+....B.B
+B.BBW.B
+.B....B
+....W..
+.WW....
+..W.WW.
+WW...WW
+[AWAY 33 GAME_ON]
+Greedy BT+ (B) played 4 1 3 0
+....B.B
+B.BBW.B
+......B
+B...W..
+.WW....
+..W.WW.
+WW...WW
+[HOME 34 GAME_ON]
+VTC PLAYER MM BT; 5 (W) played 5 4 6 3
+...WB.B
+B.BB..B
+......B
+B...W..
+.WW....
+..W.WW.
+WW...WW
+[AWAY 35 HOME_WIN]
+VTC PLAYER MM BT; 5 (W) (388.709000 seconds remaining) won.
+Greedy BT+ had 419.984000 seconds remaining.

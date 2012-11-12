@@ -1,0 +1,308 @@
+Greedy BT+ (W) played 1 1 2 2
+BBBBBBB
+BBBBBBB
+.......
+.......
+..W....
+W.WWWWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 5 1 4 1
+BBBBBBB
+B.BBBBB
+.B.....
+.......
+..W....
+W.WWWWW
+WWWWWWW
+[HOME 2 GAME_ON]
+Greedy BT+ (W) played 1 2 2 3
+BBBBBBB
+B.BBBBB
+.B.....
+.......
+..WW...
+W..WWWW
+WWWWWWW
+[AWAY 3 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 5 3 4 3
+BBBBBBB
+B.B.BBB
+.B.B...
+.......
+..WW...
+W..WWWW
+WWWWWWW
+[HOME 4 GAME_ON]
+Greedy BT+ (W) played 1 6 2 6
+BBBBBBB
+B.B.BBB
+.B.B...
+.......
+..WW..W
+W..WWW.
+WWWWWWW
+[AWAY 5 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 4 1 3 2
+BBBBBBB
+B.B.BBB
+...B...
+..B....
+..WW..W
+W..WWW.
+WWWWWWW
+[HOME 6 GAME_ON]
+Greedy BT+ (W) played 2 3 3 2
+BBBBBBB
+B.B.BBB
+...B...
+..W....
+..W...W
+W..WWW.
+WWWWWWW
+[AWAY 7 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 4 3 3 2
+BBBBBBB
+B.B.BBB
+.......
+..B....
+..W...W
+W..WWW.
+WWWWWWW
+[HOME 8 GAME_ON]
+Greedy BT+ (W) played 0 1 1 2
+BBBBBBB
+B.B.BBB
+.......
+..B....
+..W...W
+W.WWWW.
+W.WWWWW
+[AWAY 9 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 6 1 5 1
+B.BBBBB
+BBB.BBB
+.......
+..B....
+..W...W
+W.WWWW.
+W.WWWWW
+[HOME 10 GAME_ON]
+Greedy BT+ (W) played 1 2 2 3
+B.BBBBB
+BBB.BBB
+.......
+..B....
+..WW..W
+W..WWW.
+W.WWWWW
+[AWAY 11 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 5 0 4 1
+B.BBBBB
+.BB.BBB
+.B.....
+..B....
+..WW..W
+W..WWW.
+W.WWWWW
+[HOME 12 GAME_ON]
+Greedy BT+ (W) played 2 3 3 2
+B.BBBBB
+.BB.BBB
+.B.....
+..W....
+..W...W
+W..WWW.
+W.WWWWW
+[AWAY 13 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 4 1 3 2
+B.BBBBB
+.BB.BBB
+.......
+..B....
+..W...W
+W..WWW.
+W.WWWWW
+[HOME 14 GAME_ON]
+Greedy BT+ (W) played 1 3 2 4
+B.BBBBB
+.BB.BBB
+.......
+..B....
+..W.W.W
+W...WW.
+W.WWWWW
+[AWAY 15 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 5 1 4 1
+B.BBBBB
+..B.BBB
+.B.....
+..B....
+..W.W.W
+W...WW.
+W.WWWWW
+[HOME 16 GAME_ON]
+Greedy BT+ (W) played 0 6 1 6
+B.BBBBB
+..B.BBB
+.B.....
+..B....
+..W.W.W
+W...WWW
+W.WWWW.
+[AWAY 17 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 5 2 4 2
+B.BBBBB
+....BBB
+.BB....
+..B....
+..W.W.W
+W...WWW
+W.WWWW.
+[HOME 18 GAME_ON]
+Greedy BT+ (W) played 1 5 2 5
+B.BBBBB
+....BBB
+.BB....
+..B....
+..W.WWW
+W...W.W
+W.WWWW.
+[AWAY 19 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 5 4 4 5
+B.BBBBB
+.....BB
+.BB..B.
+..B....
+..W.WWW
+W...W.W
+W.WWWW.
+[HOME 20 GAME_ON]
+Greedy BT+ (W) played 2 5 3 6
+B.BBBBB
+.....BB
+.BB..B.
+..B...W
+..W.W.W
+W...W.W
+W.WWWW.
+[AWAY 21 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 4 5 3 6
+B.BBBBB
+.....BB
+.BB....
+..B...B
+..W.W.W
+W...W.W
+W.WWWW.
+[HOME 22 GAME_ON]
+Greedy BT+ (W) played 0 4 1 5
+B.BBBBB
+.....BB
+.BB....
+..B...B
+..W.W.W
+W...WWW
+W.WW.W.
+[AWAY 23 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 6 5 5 4
+B.BBB.B
+....BBB
+.BB....
+..B...B
+..W.W.W
+W...WWW
+W.WW.W.
+[HOME 24 GAME_ON]
+Greedy BT+ (W) played 1 0 2 0
+B.BBB.B
+....BBB
+.BB....
+..B...B
+W.W.W.W
+....WWW
+W.WW.W.
+[AWAY 25 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 3 2 2 1
+B.BBB.B
+....BBB
+.BB....
+......B
+WBW.W.W
+....WWW
+W.WW.W.
+[HOME 26 GAME_ON]
+Greedy BT+ (W) played 0 0 1 0
+B.BBB.B
+....BBB
+.BB....
+......B
+WBW.W.W
+W...WWW
+..WW.W.
+[AWAY 27 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 2 1 1 0
+B.BBB.B
+....BBB
+.BB....
+......B
+W.W.W.W
+B...WWW
+..WW.W.
+[HOME 28 GAME_ON]
+Greedy BT+ (W) played 2 4 3 4
+B.BBB.B
+....BBB
+.BB....
+....W.B
+W.W...W
+B...WWW
+..WW.W.
+[AWAY 29 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 4 1 3 2
+B.BBB.B
+....BBB
+..B....
+..B.W.B
+W.W...W
+B...WWW
+..WW.W.
+[HOME 30 GAME_ON]
+Greedy BT+ (W) played 1 5 2 4
+B.BBB.B
+....BBB
+..B....
+..B.W.B
+W.W.W.W
+B...W.W
+..WW.W.
+[AWAY 31 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 6 0 5 0
+..BBB.B
+B...BBB
+..B....
+..B.W.B
+W.W.W.W
+B...W.W
+..WW.W.
+[HOME 32 GAME_ON]
+Greedy BT+ (W) played 2 4 3 3
+..BBB.B
+B...BBB
+..B....
+..BWW.B
+W.W...W
+B...W.W
+..WW.W.
+[AWAY 33 GAME_ON]
+VTC PLAYER MM BT; 5 (B) played 1 0 0 1
+..BBB.B
+B...BBB
+..B....
+..BWW.B
+W.W...W
+....W.W
+.BWW.W.
+[HOME 34 AWAY_WIN]
+VTC PLAYER MM BT; 5 (B) (386.070000 seconds remaining) won.
+Greedy BT+ had 419.980000 seconds remaining.
