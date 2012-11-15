@@ -1,0 +1,344 @@
+HUMAN (W) played 1 3 2 3
+BBBBBBB
+BBBBBBB
+.......
+.......
+...W...
+WWW.WWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 5 3 4 4
+BBBBBBB
+BBB.BBB
+....B..
+.......
+...W...
+WWW.WWW
+WWWWWWW
+[HOME 2 GAME_ON]
+HUMAN (W) played 1 4 2 4
+BBBBBBB
+BBB.BBB
+....B..
+.......
+...WW..
+WWW..WW
+WWWWWWW
+[AWAY 3 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 5 6 4 6
+BBBBBBB
+BBB.BB.
+....B.B
+.......
+...WW..
+WWW..WW
+WWWWWWW
+[HOME 4 GAME_ON]
+HUMAN (W) played 1 1 2 1
+BBBBBBB
+BBB.BB.
+....B.B
+.......
+.W.WW..
+W.W..WW
+WWWWWWW
+[AWAY 5 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 6 5 5 6
+BBBBB.B
+BBB.BBB
+....B.B
+.......
+.W.WW..
+W.W..WW
+WWWWWWW
+[HOME 6 GAME_ON]
+HUMAN (W) played 2 3 3 3
+BBBBB.B
+BBB.BBB
+....B.B
+...W...
+.W..W..
+W.W..WW
+WWWWWWW
+[AWAY 7 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 5 2 4 1
+BBBBB.B
+BB..BBB
+.B..B.B
+...W...
+.W..W..
+W.W..WW
+WWWWWWW
+[HOME 8 GAME_ON]
+HUMAN (W) played 1 2 2 2
+BBBBB.B
+BB..BBB
+.B..B.B
+...W...
+.WW.W..
+W....WW
+WWWWWWW
+[AWAY 9 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 6 4 5 3
+BBBB..B
+BB.BBBB
+.B..B.B
+...W...
+.WW.W..
+W....WW
+WWWWWWW
+[HOME 10 GAME_ON]
+HUMAN (W) played 3 3 4 4
+BBBB..B
+BB.BBBB
+.B..W.B
+.......
+.WW.W..
+W....WW
+WWWWWWW
+[AWAY 11 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 5 3 4 4
+BBBB..B
+BB..BBB
+.B..B.B
+.......
+.WW.W..
+W....WW
+WWWWWWW
+[HOME 12 GAME_ON]
+HUMAN (W) played 0 3 1 3
+BBBB..B
+BB..BBB
+.B..B.B
+.......
+.WW.W..
+W..W.WW
+WWW.WWW
+[AWAY 13 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 5 1 4 2
+BBBB..B
+B...BBB
+.BB.B.B
+.......
+.WW.W..
+W..W.WW
+WWW.WWW
+[HOME 14 GAME_ON]
+HUMAN (W) played 1 6 2 6
+BBBB..B
+B...BBB
+.BB.B.B
+.......
+.WW.W.W
+W..W.W.
+WWW.WWW
+[AWAY 15 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 5 4 4 3
+BBBB..B
+B....BB
+.BBBB.B
+.......
+.WW.W.W
+W..W.W.
+WWW.WWW
+[HOME 16 GAME_ON]
+HUMAN (W) played 2 2 3 3
+BBBB..B
+B....BB
+.BBBB.B
+...W...
+.W..W.W
+W..W.W.
+WWW.WWW
+[AWAY 17 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 4 4 3 3
+BBBB..B
+B....BB
+.BBB..B
+...B...
+.W..W.W
+W..W.W.
+WWW.WWW
+[HOME 18 GAME_ON]
+HUMAN (W) played 0 2 1 2
+BBBB..B
+B....BB
+.BBB..B
+...B...
+.W..W.W
+W.WW.W.
+WW..WWW
+[AWAY 19 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 6 2 5 2
+BB.B..B
+B.B..BB
+.BBB..B
+...B...
+.W..W.W
+W.WW.W.
+WW..WWW
+[HOME 20 GAME_ON]
+HUMAN (W) played 0 1 1 1
+BB.B..B
+B.B..BB
+.BBB..B
+...B...
+.W..W.W
+WWWW.W.
+W...WWW
+[AWAY 21 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 5 0 4 0
+BB.B..B
+..B..BB
+BBBB..B
+...B...
+.W..W.W
+WWWW.W.
+W...WWW
+[HOME 22 GAME_ON]
+HUMAN (W) played 1 2 2 2
+BB.B..B
+..B..BB
+BBBB..B
+...B...
+.WW.W.W
+WW.W.W.
+W...WWW
+[AWAY 23 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 3 3 2 3
+BB.B..B
+..B..BB
+BBBB..B
+.......
+.WWBW.W
+WW.W.W.
+W...WWW
+[HOME 24 GAME_ON]
+HUMAN (W) played 2 2 3 3
+BB.B..B
+..B..BB
+BBBB..B
+...W...
+.W.BW.W
+WW.W.W.
+W...WWW
+[AWAY 25 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 6 3 5 4
+BB....B
+..B.BBB
+BBBB..B
+...W...
+.W.BW.W
+WW.W.W.
+W...WWW
+[HOME 26 GAME_ON]
+HUMAN (W) played 1 5 2 5
+BB....B
+..B.BBB
+BBBB..B
+...W...
+.W.BWWW
+WW.W...
+W...WWW
+[AWAY 27 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 4 3 3 2
+BB....B
+..B.BBB
+BBB...B
+..BW...
+.W.BWWW
+WW.W...
+W...WWW
+[HOME 28 GAME_ON]
+HUMAN (W) played 2 5 3 5
+BB....B
+..B.BBB
+BBB...B
+..BW.W.
+.W.BW.W
+WW.W...
+W...WWW
+[AWAY 29 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 4 1 3 1
+BB....B
+..B.BBB
+B.B...B
+.BBW.W.
+.W.BW.W
+WW.W...
+W...WWW
+[HOME 30 GAME_ON]
+HUMAN (W) played 3 3 4 2
+BB....B
+..B.BBB
+B.W...B
+.BB..W.
+.W.BW.W
+WW.W...
+W...WWW
+[AWAY 31 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 2 3 1 2
+BB....B
+..B.BBB
+B.W...B
+.BB..W.
+.W..W.W
+WWBW...
+W...WWW
+[HOME 32 GAME_ON]
+HUMAN (W) played 3 5 4 6
+BB....B
+..B.BBB
+B.W...W
+.BB....
+.W..W.W
+WWBW...
+W...WWW
+[AWAY 33 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 3 1 2 0
+BB....B
+..B.BBB
+B.W...W
+..B....
+BW..W.W
+WWBW...
+W...WWW
+[HOME 34 GAME_ON]
+HUMAN (W) played 2 1 3 2
+BB....B
+..B.BBB
+B.W...W
+..W....
+B...W.W
+WWBW...
+W...WWW
+[AWAY 35 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 6 1 5 1
+B.....B
+.BB.BBB
+B.W...W
+..W....
+B...W.W
+WWBW...
+W...WWW
+[HOME 36 GAME_ON]
+HUMAN (W) played 4 2 5 3
+B.....B
+.BBWBBB
+B.....W
+..W....
+B...W.W
+WWBW...
+W...WWW
+[AWAY 37 GAME_ON]
+VTC_PLAYER_AB-ID;  (B) played 1 2 0 1
+B.....B
+.BBWBBB
+B.....W
+..W....
+B...W.W
+WW.W...
+WB..WWW
+[HOME 38 AWAY_WIN]
+VTC_PLAYER_AB-ID;  (B) (194.793000 seconds remaining) won.
+HUMAN had 87.366000 seconds remaining.

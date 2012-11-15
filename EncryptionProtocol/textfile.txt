@@ -1,0 +1,4 @@
+In this paper, we describe our cryptographic schemes for the problem of searching on encrypted data and provide
+proofs of security for the resulting crypto systems. Our techniques have a number of crucial advantages. They are
+provably secure: they provide provable secrecy for encryption, in the sense that the untrusted server cannot learn
+anything about the plaintext when only given the ciphertext
