@@ -4,7 +4,11 @@ import java.util.Collections;
 import java.util.Comparator;
 
 
-
+/**
+ * 
+ * @author Tanmay
+ *
+ */
 
 public class Knn {
 	

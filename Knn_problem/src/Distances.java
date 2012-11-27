@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author Tanmay
+ *
+ */
 public class Distances extends Attributes{
 
 	

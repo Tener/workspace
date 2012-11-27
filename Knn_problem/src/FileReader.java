@@ -6,13 +6,18 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
-
+/**
+ * 
+ * @author Tanmay
+ *
+ */
 
 public class FileReader {
 
 	/**
 	 * @param
 	 */
+	@SuppressWarnings("resource")
 	protected static ArrayList<Attributes> readFile()
 	{
 		String line = null;

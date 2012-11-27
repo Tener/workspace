@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author Tanmay
+ *
+ */
 public class Attributes {
 
 	protected double mcv,alkphos,sgpt,sgot,gammagt,drinks,selector;
