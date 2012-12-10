@@ -12,7 +12,7 @@ import java.util.Comparator;
 
 public class Knn {
 	
-	static final int k = 5; //Set the value of k here
+	static final int k = 1; //Set the value of k here
 	static int correct = 0;
 	static int wrong = 0;
 	
@@ -25,12 +25,10 @@ public class Knn {
 		
 		ArrayList<Attributes> instances = new ArrayList<Attributes>();
 		instances = FileReader.readFile();
-		/*for(Attributes attr1 : instances)
-		System.out.println(attr1);*/
 		cross_validation(instances);
-		//double Percent = (correct/(correct + wrong))*100;
 		double Percent = 0.0;
-		Percent = (correct/345.0)*100;
+		Percent = (correct/(double)instances.size())*100;
+		//System.out.println("Correct predictions:" + correct);
 		System.out.println("Percentage of correct predictions " + Percent + "%");
 		System.out.println("Percentage of wrong predictions " + (100 - Percent) + "%");
 		
@@ -65,7 +63,7 @@ public class Knn {
 			double distance=0.0;
 			if(!equals(attr,atr))
 			{
-				distance = Math.sqrt(Math.pow((attr.mcv - atr.mcv),2) + Math.pow((attr.alkphos - atr.alkphos),2) + Math.pow((attr.sgpt - atr.sgpt),2) + Math.pow((attr.sgot - atr.sgot),2) + Math.pow((attr.gammagt - atr.gammagt),2) + Math.pow((attr.selector - atr.selector),2) + Math.pow((attr.drinks - atr.drinks),2));
+				distance = Math.sqrt(Math.pow((attr.mcv - atr.mcv),2) + Math.pow((attr.alkphos - atr.alkphos),2) + Math.pow((attr.sgpt - atr.sgpt),2) + Math.pow((attr.sgot - atr.sgot),2) + Math.pow((attr.gammagt - atr.gammagt),2) + Math.pow((attr.drinks - atr.drinks),2));
 				Distances distance_attr = new Distances(attr.mcv,attr.alkphos,attr.sgpt,attr.sgot,attr.gammagt,attr.drinks,attr.selector,distance);
 				distances.add(distance_attr);
 				//System.out.println(i++ + "Distance is " + distance);
@@ -91,6 +89,7 @@ public class Knn {
 		if(count_1 > count_2)
 			{
 				System.out.println("Prediction based on " + k + " nearest neighbour "+ "1.0" + " Original " + atr.selector);
+			
 				if(atr.selector == 1.0)
 					correct++;
 				else
@@ -99,6 +98,7 @@ public class Knn {
 		else
 		{
 			System.out.println("Prediction based on " + k + " nearest neighbour " + "2.0" + " Original " + atr.selector);
+			
 			if(atr.selector == 2.0)
 				correct++;
 			else

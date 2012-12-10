@@ -1,19 +1,46 @@
+import java.util.ArrayList;
+import java.util.Comparator;
+
 
 public class Node {
 
 	
-	protected int[] key;
-	protected Node[] Node;
-	
+	public int depth;
+	public boolean isEmpty;
+    public ArrayList<OneElement> one = new ArrayList<OneElement>();
+    public Node Neighbor;
+	public OneElement Parent;
 	/**
 	 * 
 	 * @param key
 	 * @param pointer
+	 * @param depth
 	 */
-	Node(int key[], Node pointer[])
+	public Node(ArrayList<OneElement> one, int depth, boolean isEmpty, Node Neighbor, OneElement Parent)
 	{
-		this.key=key;
-		this.Node = pointer;
+		this.one = one;
+		this.depth = depth;
+		this.Neighbor = Neighbor;
+		this.isEmpty = isEmpty;
+		this.Parent=Parent;
+	}
+	
+	
+
+	@Override
+	public String toString() {
+		return "Node [depth=" + depth + ", one=" + one + "]";
 	}
 
-}
+
+
+	public static class DepthComparator implements Comparator<Node>
+	{
+		public int compare(Node o1, Node o2) 
+		{
+			return o2.depth - o1.depth;
+		}
+		
+	}
+}	
+
