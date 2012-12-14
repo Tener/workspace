@@ -3,6 +3,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.Iterator;
 import java.util.PriorityQueue;
+import java.util.Scanner;
 
 
 /**
@@ -17,11 +18,15 @@ public class BPTree {
 	
 	protected static PriorityQueue<Node> Pr= new PriorityQueue<Node>(1000,comp);
 	
+	protected static int array_of_elements[];
+	
 	protected static int depth = 0;
 	
 	protected static int MAX_DEPTH = 0;
 	
 	protected static int num_of_elements = 0;
+	
+	protected static int num_of_input_elements = 0;
 	
 	protected static int total_elements = 0;
 	
@@ -40,9 +45,10 @@ public class BPTree {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ArrayList<OneElement> Tree = new ArrayList<OneElement>();
-		for(int i=0 ; i<30 ; i++)	
+		input_elements();
+		for(int i=0 ; i<num_of_input_elements ; i++)	
 		{
-			int key = generate_elements();
+			int key = generate_input_elements();
 			if(!(key == 0 || checkduplicate(key))) 
 			{
 				//System.out.println("This is" + i + "th iteration");
@@ -97,9 +103,13 @@ public class BPTree {
 				    } });
 				
 				
-				OneElement t = new OneElement(Integer.MAX_VALUE,depth,null);
+				OneElement t = new OneElement(key,depth,null);
 				
 				Tree.add(t);
+				
+				OneElement t1 = new OneElement(Integer.MAX_VALUE, depth,null);
+				
+				Tree.add(t1);
 				
 				Node n1 = new Node(Tree,depth,false,null, null);
 				
@@ -108,7 +118,8 @@ public class BPTree {
 				MAX_DEPTH=0;
 				
 				Pr.add(n1);
-				
+				total_elements++;
+				checkSplit(key,n1);
 				//System.out.println(Tree.size());
 				
 				//System.out.println(Tree);
@@ -134,6 +145,12 @@ public class BPTree {
 					}
 				}
 			}
+			Collections.sort(list, new Comparator<ListofKeys>(){
+				   
+				public int compare(ListofKeys d1, ListofKeys d2)
+			    {
+			        return Double.valueOf(d1.key).compareTo((double) d2.key);
+			    } });
 				if(key < list.get(0).key )
 				{
 					Node p = list.get(0).me_node;
@@ -417,6 +434,9 @@ public class BPTree {
 	
 	private static void search()
 	{
+		System.out.println(" Enter the element to be searched::");
+		Scanner in = new Scanner(System.in);
+		int searchable = in.nextInt();
 		
 	}
 
@@ -436,4 +456,23 @@ public class BPTree {
 		
 	}
 	
+	private static void input_elements()
+	{
+		System.out.println("Enter the number of elements you want to be entered::");
+		Scanner in = new Scanner(System.in);
+		num_of_input_elements = in.nextInt();
+		array_of_elements= new int[num_of_input_elements];
+		for(int i = 0; i< num_of_input_elements ; i++)
+		{
+			System.out.println("Input the element::");
+			Scanner le = new Scanner(System.in);
+			int element = in.nextInt();
+			array_of_elements[i] = element;
+		}
+	}
+	
+	protected static int generate_input_elements()
+	{
+		return array_of_elements[z++]; 
+	}
 }

@@ -9,6 +9,7 @@ public class Node {
 	public boolean isEmpty;
     public ArrayList<OneElement> one = new ArrayList<OneElement>();
     public Node Neighbor;
+    public Node child;
 	public OneElement Parent;
 	/**
 	 * 
@@ -16,20 +17,22 @@ public class Node {
 	 * @param pointer
 	 * @param depth
 	 */
-	public Node(ArrayList<OneElement> one, int depth, boolean isEmpty, Node Neighbor, OneElement Parent)
+	public Node(ArrayList<OneElement> one, int depth, boolean isEmpty, Node Neighbor, OneElement Parent )
 	{
 		this.one = one;
 		this.depth = depth;
 		this.Neighbor = Neighbor;
 		this.isEmpty = isEmpty;
 		this.Parent=Parent;
+		
 	}
 	
 	
 
 	@Override
 	public String toString() {
-		return "Node [depth=" + depth + ", one=" + one + "]";
+		return "Node [depth=" + depth + ", one=" + one + ", Parent=" + Parent
+				+ "]";
 	}
 
 

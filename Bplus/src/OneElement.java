@@ -22,7 +22,7 @@ public class OneElement {
 
 	@Override
 	public String toString() {
-		return "OneElement [key=" + key + ", depth=" + depth + "]";
+		return "OneElement [key=" + key + "]";
 	}
 	
 }

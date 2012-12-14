@@ -275,7 +275,7 @@ public class NaiveBayes {
 				if(tr_one.Parone.equals(anObject) )
 			}*/
 		}
-		System.out.println(" Percentage of correct predictions " + (float)((correct_pred)/tr_data.size()));
+		System.out.println(" Percentage of correct predictions " + ((double)(correct_pred)/tr_data.size())*100.0);
 	}
 
 }
