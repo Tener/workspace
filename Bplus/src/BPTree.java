@@ -512,6 +512,7 @@ public class BPTree {
 	 */
 	private static Node search_element(int searchable,Node child,boolean deletion)
 	{
+		Node parent,child_neighbor = null;
 		for(int i=0;i< child.one.size() - 1; i++)
 		{
 			if(search_flag == 0 && searchable == child.one.get(i).key && child.depth==MAX_DEPTH)
@@ -519,7 +520,45 @@ public class BPTree {
 					System.out.println("Element found and deleting");
 					search_flag = 1;
 					if(child.one.size() > degree)
+					{
 						child.one.remove(i);
+					}
+					else if(child.one.size() <= degree)
+					{
+						OneElement parent_one = child.Parent;
+						parent = parent_one.Envelope_Node;
+						if(child.Neighbor!=null)
+						{
+							for(int k = 0; k < child.one.size()-1 ; k++)
+							{
+								OneElement e = child.one.remove(k);
+								child.Neighbor.one.add(e);
+								e.Envelope_Node = child.Neighbor;
+								sortOneElement(child.Neighbor);
+								checkSplit(0, child.Neighbor);
+							}
+						}
+						else
+						{
+						for(int j = 0; j < parent.one.size() ; j++)
+						{
+							if(parent.one.get(j).key == parent_one.key)
+							{
+								child_neighbor = parent.one.get(j-1).child;
+								child.one.remove(i);
+								for(int k = 0; k < child.one.size()-1 ; k++)
+								{
+									OneElement e = child.one.remove(k);
+									e.Envelope_Node = child_neighbor;
+									child_neighbor.one.add(e);
+									sortOneElement(child_neighbor);
+									checkSplit(0,child_neighbor);
+								}
+							}
+						}
+						}
+						parent.one.remove(parent_one);
+					}
 					searched_Node = child;
 					break; 
 				}
