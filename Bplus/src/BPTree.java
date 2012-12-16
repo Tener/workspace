@@ -26,6 +26,8 @@ public class BPTree {
 	
 	protected static int num_of_elements = 0;
 	
+	protected static int last_pointer = Integer.MAX_VALUE;
+	
 	protected static int num_of_input_elements = 0;
 	
 	protected static int total_elements = 0;
@@ -37,6 +39,7 @@ public class BPTree {
 	protected static ArrayList<Integer> duplicate = new ArrayList<Integer>();
 	
 	protected static int z = 0;
+	
 	
 	
 	/**
@@ -61,6 +64,7 @@ public class BPTree {
 			}
 			//System.out.println(Pr);;
 			}
+		search(-10);
 	}
 	
 	
@@ -79,7 +83,7 @@ public class BPTree {
 	}
 	
 	/** Inserts the key into the tree
-	 * 
+	 * Populates the tree
 	 * @param key
 	 * @param Tree
 	 */
@@ -89,7 +93,7 @@ public class BPTree {
 		{
 			if(num_of_elements < (2*degree))
 			{
-				OneElement t = new OneElement(key,depth,null);
+				OneElement t = new OneElement(key,depth,null,null);
 				Tree.add(t);
 			}
 			
@@ -103,11 +107,11 @@ public class BPTree {
 				    } });
 				
 				
-				OneElement t = new OneElement(key,depth,null);
+				OneElement t = new OneElement(key,depth,null,null);
 				
 				Tree.add(t);
 				
-				OneElement t1 = new OneElement(Integer.MAX_VALUE, depth,null);
+				OneElement t1 = new OneElement(last_pointer--, depth,null,null);
 				
 				Tree.add(t1);
 				
@@ -154,7 +158,7 @@ public class BPTree {
 				if(key < list.get(0).key )
 				{
 					Node p = list.get(0).me_node;
-					OneElement oel = new OneElement(key, list.get(0).me_node.depth,null);
+					OneElement oel = new OneElement(key, list.get(0).me_node.depth,null,null);
 					p.one.add(oel);
 					setEnvelope(p);
 					sortOneElement(p);
@@ -164,7 +168,7 @@ public class BPTree {
 				else if(key > list.get((list.size()-1)).key)
 				{
 					Node p = list.get((list.size()-1 )).me_node;
-					OneElement oel = new OneElement(key, list.get((list.size()-1)).me_node.depth,null);
+					OneElement oel = new OneElement(key, list.get((list.size()-1)).me_node.depth,null,null);
 					p.one.add(oel);
 					setEnvelope(p);
 					sortOneElement(p);
@@ -179,7 +183,7 @@ public class BPTree {
 							Node p1 = list.get(i+1).me_node;
 							if(p.equals(p1))
 							{
-								OneElement oel = new OneElement(key, list.get(i).me_node.depth,null);
+								OneElement oel = new OneElement(key, list.get(i).me_node.depth,null,null);
 								p.one.add(oel);
 								setEnvelope(p);
 								sortOneElement(p);
@@ -188,7 +192,7 @@ public class BPTree {
 							}
 							else if(p.Parent.key < key)
 							{
-								OneElement oel = new OneElement(key, list.get(i+1).me_node.depth, null);
+								OneElement oel = new OneElement(key, list.get(i+1).me_node.depth, null,null);
 								p1.one.add(oel);
 								setEnvelope(p1);
 								sortOneElement(p1);
@@ -197,7 +201,7 @@ public class BPTree {
 							}
 							else if(p.Parent.key > key)
 							{
-								OneElement oel = new OneElement(key, list.get(i).me_node.depth,null);
+								OneElement oel = new OneElement(key, list.get(i).me_node.depth,null,null);
 								p.one.add(oel);
 								setEnvelope(p);
 								sortOneElement(p);
@@ -213,7 +217,7 @@ public class BPTree {
 }
 	
 	/**
-	 * 
+	 * Sets the Envelope node for OneElement 
 	 * @param n
 	 */
 	
@@ -318,30 +322,34 @@ public class BPTree {
 				}
 			}
 			
-			OneElement t = new OneElement(Integer.MAX_VALUE,depth,null);
+			OneElement t = new OneElement(last_pointer--,depth,null,null);
 			
 			child2.one.add(t);
 			
 			setEnvelope(child2);
 			
-			Node child1 = new Node(aoe,child2.depth, true , child2 ,null);
+			Node child1 = new Node(aoe,child2.depth, true , null ,null);
+			
+			child2.Neighbor = child1;
 			
 			setEnvelope(child1);
 			
 			Pr.add(child1);
 			
-			OneElement Parent = (OneElement) child2.Parent;
+			Node Parent = null;
 			
+			if(child2.Parent != null)
+				 Parent = (Node) child2.Parent.Envelope_Node;
 
 			if(Parent == null)
 			{
 				ArrayList<OneElement> aone1 = new ArrayList<OneElement>();
 						
-				OneElement oe =  new OneElement(mid_key,0 ,null);
+				OneElement oe =  new OneElement(mid_key,0 ,null,null);
 						
 				aone1.add(oe);
 						
-				OneElement t1 = new OneElement(Integer.MAX_VALUE,depth,null);
+				OneElement t1 = new OneElement(last_pointer--,depth,null,null);
 					
 				aone1.add(t1);
 						
@@ -365,9 +373,13 @@ public class BPTree {
 						
 				}
 						
+						oe.child = child2;
+						
+						t1.child = child1;
+				
 						child2.Parent = oe;
 						
-						child1.Parent = oe;
+						child1.Parent = t1;
 						
 						child2.depth = child2.depth + 1;
 						
@@ -379,37 +391,43 @@ public class BPTree {
 						//increase depth of children in aoe by one
 					}
 					
-			else if(Parent.Envelope_Node.one.size() <= (2*degree) )
+			else if(Parent.one.size() <= (2*degree) )
 					{
 						
-						OneElement oe = new OneElement(mid_key, Parent.depth,null);
+						OneElement oe = new OneElement(mid_key, Parent.depth,null,null);
 						
-						Parent.Envelope_Node.one.add(oe);
+						Parent.one.add(oe);
 						
-						setEnvelope(Parent.Envelope_Node);
+						setEnvelope(Parent);
 						
-						sortOneElement(Parent.Envelope_Node);
+						sortOneElement(Parent);
 						
-						System.out.println("Parent Node " + Parent.Envelope_Node);
+						System.out.println("Parent Node " + Parent);
 						
-						System.out.println("Size of Parent Node " + Parent.Envelope_Node.one.size());
+						System.out.println("Size of Parent Node " + Parent.one.size());
 						
-						OneElement parent_oe = Parent.Envelope_Node.one.get((Parent.Envelope_Node.one.size()-1));
+						//OneElement parent_oe = Parent.Envelope_Node.one.get((Parent.Envelope_Node.one.size()-1));
 						
-						child1.Parent = parent_oe;
+						child2.Parent = oe;
+						
+						child1.Parent = Parent.one.get(Parent.one.size() - 1);
+						
+						oe.child = child2;
+						
+						Parent.one.get(Parent.one.size() - 1).child = child1;
 						
 						return;
 					}
-					else if(Parent.Envelope_Node.one.size() > (2*degree))
+					else if(Parent.one.size() > (2*degree))
 					{
 						
-						OneElement oe = new OneElement(mid_key, Parent.depth,null);
+						OneElement oe = new OneElement(mid_key, Parent.depth,null,null);
 						
-						Parent.Envelope_Node.one.add(oe);
+						Parent.one.add(oe);
 						
-						setEnvelope(Parent.Envelope_Node);
+						setEnvelope(Parent);
 						
-						sortOneElement(Parent.Envelope_Node);
+						sortOneElement(Parent);
 						
 						Iterator<Node> iter = Pr.iterator();
 						
@@ -419,25 +437,99 @@ public class BPTree {
 							if(n3.depth == MAX_DEPTH)
 								n3.depth = n3.depth + 1;
 						}
-						
-						checkSplit(mid_key,Parent.Envelope_Node);
+						child2.Parent = oe;
+						child1.Parent = Parent.one.get(Parent.one.size() - 1);
+						oe.child = child2;
+						Parent.one.get(Parent.one.size()-1).child = child1;
+						checkSplit(mid_key,Parent);
 						//increase depth of children in aoe by one
 					}
 		}
 	}
 	
+	/**
+	 * Delete a value from the table
+	 */
 	
 	private static void delete()
 	{
-		
+		System.out.println("Enter the element to be deleted::");
+		Scanner sc = new Scanner(System.in);
+		int deletion_item = sc.nextInt();
+		search(deletion_item);
 	}
 	
-	private static void search()
+	/**
+	 * Search a value in the tree
+	 * @param element
+	 * @return
+	 */
+	private static boolean search(int element)
 	{
-		System.out.println(" Enter the element to be searched::");
-		Scanner in = new Scanner(System.in);
-		int searchable = in.nextInt();
+		int searchable = 0;
+		if(element <= 0)
+		{
+			System.out.println(" Enter the element to be searched::");
+			Scanner in = new Scanner(System.in);
+			searchable = in.nextInt();
+		}
+		else
+			searchable = element;
+		Iterator<Node> it = Pr.iterator();
 		
+		while(it.hasNext())
+		{
+			Node n = it.next();
+			if(n.depth == 0)
+			{
+				boolean val = search_element(searchable,n);
+				if(val)
+				{
+					System.out.println("Element found");
+					return true;
+				}
+				else
+				{
+					System.out.println("Element not found");
+					return false;
+				}
+			}
+		}
+		return false;
+	}
+	
+	/**
+	 * Recursively searches for the child node and the element in that
+	 * @param searchable
+	 * @param child
+	 * @return
+	 */
+	private static boolean search_element(int searchable,Node child)
+	{
+		for(int i=0;i< child.one.size() - 1; i++)
+		{
+			if(searchable == child.one.get(i).key)
+				{
+					System.out.println("Element found");
+					System.exit(0);
+				}
+			else if(searchable < child.one.get(0).key)
+			{
+				Node child1 = child.one.get(i).child;
+				search_element(searchable,child1);
+			}
+			else if((child.one.get(i).key < searchable) && (searchable < child.one.get(i+1).key ))
+			{
+				Node child1 = child.one.get(i+1).child;
+				search_element(searchable, child1);
+			}
+			else if((child.one.get(child.one.size()-2).key < searchable) && (searchable < child.one.get(child.one.size()-1).key))
+			{
+				Node child1 = child.one.get(child.one.size()-1).child;
+				search_element(searchable, child1);
+			}
+		}
+		return false;
 	}
 
 	/**
