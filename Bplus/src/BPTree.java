@@ -18,9 +18,13 @@ public class BPTree {
 	
 	protected static PriorityQueue<Node> Pr= new PriorityQueue<Node>(1000,comp);
 	
+	protected static Node searched_Node = null;
+	
 	protected static int array_of_elements[];
 	
 	protected static int depth = 0;
+	
+	protected static int search_flag = 0;
 	
 	protected static int MAX_DEPTH = 0;
 	
@@ -65,6 +69,7 @@ public class BPTree {
 			//System.out.println(Pr);;
 			}
 		search(-10);
+		delete();
 	}
 	
 	
@@ -466,7 +471,10 @@ public class BPTree {
 	 */
 	private static boolean search(int element)
 	{
+		Node se = null;
+		
 		int searchable = 0;
+		
 		if(element <= 0)
 		{
 			System.out.println(" Enter the element to be searched::");
@@ -475,6 +483,7 @@ public class BPTree {
 		}
 		else
 			searchable = element;
+		
 		Iterator<Node> it = Pr.iterator();
 		
 		while(it.hasNext())
@@ -482,54 +491,91 @@ public class BPTree {
 			Node n = it.next();
 			if(n.depth == 0)
 			{
-				boolean val = search_element(searchable,n);
-				if(val)
-				{
-					System.out.println("Element found");
-					return true;
-				}
-				else
-				{
-					System.out.println("Element not found");
-					return false;
-				}
+				 if(element <= 0)
+					 se = search_element(searchable,n);
+				 else
+				 {
+					 search_flag = 0;
+					 se = search_element(searchable,n,true);
+				 }
+				 
+				 System.out.println(searched_Node);
+				 break;
 			}
 		}
 		return false;
 	}
 	
+	
+	/**
+	 * 
+	 */
+	private static Node search_element(int searchable,Node child,boolean deletion)
+	{
+		for(int i=0;i< child.one.size() - 1; i++)
+		{
+			if(search_flag == 0 && searchable == child.one.get(i).key && child.depth==MAX_DEPTH)
+				{
+					System.out.println("Element found and deleting");
+					search_flag = 1;
+					if(child.one.size() > degree)
+						child.one.remove(i);
+					searched_Node = child;
+					break; 
+				}
+			else if(search_flag == 0 && searchable < child.one.get(0).key)
+			{
+				Node child1 = child.one.get(i).child;
+				search_element(searchable,child1,true);
+			}
+			else if(search_flag ==0 && (child.one.get(i).key < searchable) && (searchable < child.one.get(i+1).key ))
+			{
+				Node child1 = child.one.get(i+1).child;
+				search_element(searchable, child1,true);
+			}
+			else if(search_flag ==0 && (child.one.get(child.one.size()-2).key < searchable) && (searchable < child.one.get(child.one.size()-1).key))
+			{
+				Node child1 = child.one.get(child.one.size()-1).child;
+				search_element(searchable, child1,true);
+			}
+		}
+		return null;
+	}
+
 	/**
 	 * Recursively searches for the child node and the element in that
 	 * @param searchable
 	 * @param child
 	 * @return
 	 */
-	private static boolean search_element(int searchable,Node child)
+	private static Node search_element(int searchable,Node child)
 	{
 		for(int i=0;i< child.one.size() - 1; i++)
 		{
-			if(searchable == child.one.get(i).key)
+			if(search_flag == 0 && searchable == child.one.get(i).key && child.depth==MAX_DEPTH)
 				{
 					System.out.println("Element found");
-					System.exit(0);
+					search_flag = 1;
+					searched_Node = child;
+					break; 
 				}
-			else if(searchable < child.one.get(0).key)
+			else if(search_flag == 0 && searchable < child.one.get(0).key)
 			{
 				Node child1 = child.one.get(i).child;
 				search_element(searchable,child1);
 			}
-			else if((child.one.get(i).key < searchable) && (searchable < child.one.get(i+1).key ))
+			else if(search_flag ==0 && (child.one.get(i).key < searchable) && (searchable < child.one.get(i+1).key ))
 			{
 				Node child1 = child.one.get(i+1).child;
 				search_element(searchable, child1);
 			}
-			else if((child.one.get(child.one.size()-2).key < searchable) && (searchable < child.one.get(child.one.size()-1).key))
+			else if(search_flag ==0 && (child.one.get(child.one.size()-2).key < searchable) && (searchable < child.one.get(child.one.size()-1).key))
 			{
 				Node child1 = child.one.get(child.one.size()-1).child;
 				search_element(searchable, child1);
 			}
 		}
-		return false;
+		return null;
 	}
 
 	/**
