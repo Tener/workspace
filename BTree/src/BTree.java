@@ -16,7 +16,7 @@ import java.util.Scanner;
  * 
  */
 
-public class BPTree {
+public class BTree {
 
 	protected static int degree = 2;
 	
@@ -55,6 +55,8 @@ public class BPTree {
 
 		Scanner sc = new Scanner(System.in);
 
+		//input_elements();
+		
 		read_input_file(filename);
 		
 		if(num_of_input_elements <= (2*degree))
@@ -65,7 +67,7 @@ public class BPTree {
 
 		for (int i = 0; i < num_of_input_elements; i++) {
 			int key = generate_input_elements();
-			if (!(key < 0 || checkduplicate(key))) {
+			if (!(key == 0 || checkduplicate(key))) {
 				insert(key, Tree);
 				num_of_elements++;
 				total_elements++;
@@ -78,19 +80,19 @@ public class BPTree {
 			System.out.println("Insert a value::");
 			int num_insert = sc.nextInt();
 			final long startTime,endTime;
-			if (!(checkduplicate(num_insert) || num_insert < 0) )
-				{
-					startTime = System.currentTimeMillis();
-					insert(num_insert, Tree);
-					endTime = System.currentTimeMillis();
-					long timeTaken = endTime - startTime;
-					System.out.println("Time Taken for insert::" +  timeTaken);
-					System.out.println(Pr);
-				}
+			if (!(checkduplicate(num_insert)|| num_insert < 0))
+			{
+				startTime = System.currentTimeMillis();
+				insert(num_insert, Tree);
+				endTime = System.currentTimeMillis();
+				long timeTaken = endTime - startTime;
+				System.out.println("Time Taken for insert::" +  timeTaken);
+				System.out.println(Pr);
+			}
 			search(-10);
-			//range_search();
 			delete();
-			System.out.println(" Do you want to insert,search, do range search or delete again(Y or N)::");
+			System.out
+					.println(" Do you want to insert,search, or delete again(Y or N)::");
 			choice = sc.next();
 		} while (choice.equals("Y")||choice.equals("y"));
 
@@ -309,9 +311,6 @@ public class BPTree {
 
 			Node child1 = new Node(aoe, child2.depth, true, null, null);
 
-			if(child2.Neighbor!=null)
-				child1.Neighbor = child2.Neighbor;
-		
 			child2.Neighbor = child1;
 
 			setEnvelope(child1);
@@ -364,7 +363,6 @@ public class BPTree {
 				MAX_DEPTH = MAX_DEPTH + 1;
 
 				return;
-				// increase depth of children in aoe by one
 			}
 
 			else if (Parent.one.size() <= (2 * degree)) {
@@ -426,7 +424,6 @@ public class BPTree {
 				if (total_elements == (2 * degree + 1))
 					change_depth(change);
 				checkSplit(mid_key, Parent);
-				// increase depth of children in aoe by one
 			}
 		}
 	}
@@ -468,53 +465,13 @@ public class BPTree {
 	}
 
 	/**
-	 * Searches a range of entries
-	 * 
-	 * @return void
-	 */
-	private static void range_search() {
-		Node change;
-		int num = 0;
-		Scanner sc = new Scanner(System.in);
-		System.out.println();
-		System.out.println("This is range search: Enter start range for 1st prompt and end range for 2nd prompt");
-		search_flag = 0;
-		searched_Node = null;
-		search(-10);
-		Node start1 = searched_Node;
-		start_search = temp;
-		search_flag = 0;
-		searched_Node = null;
-		search(-10);
-		Node end1 = searched_Node;
-		end_search = temp;
-		if (start_search > end_search)
-			System.out.println(" You entered the wrong range");
-		else if (start_search < end_search && start1 != null && end1 != null) {
-			change = start1;
-			while (change != null) {
-				Iterator<OneElement> it = change.one.iterator();
-				while (it.hasNext()) {
-					OneElement one = it.next();
-					num = one.key;
-					if (num == start_search|| ((num <= end_search) && (num > start_search))) {
-						System.out.println(num);
-					}
-				}
-				change = change.Neighbor;
-			}
-		} else {
-			System.out.println("Range cannot be found");
-		}
-	}
-
-	/**
 	 * Search a value in the tree
 	 * 
 	 * @param element
 	 * @returns a boolean value
 	 */
 	private static boolean search(int element) {
+		
 		Node se = null;
 		final long startTime,endTime;
 		int searchable = 0;
@@ -542,7 +499,7 @@ public class BPTree {
 				} else {
 					search_flag = 0;
 					se = search_element(searchable, n, true);
-					System.out.println(Pr);
+					System.out.println(" Tree " + Pr);
 				}
 
 				break;
@@ -559,11 +516,13 @@ public class BPTree {
 	 * @param deletion
 	 * @return the searched Node in which the delete element lies
 	 */
-	private static Node search_element(int searchable, Node child,boolean deletion) {
+	private static Node search_element(int searchable, Node child,
+			boolean deletion) {
 		Node parent, child_neighbor = null;
 		for (int i = 0; i < child.one.size() - 1; i++) {
 			if (search_flag == 0 && searchable == child.one.get(i).key
 					&& child.depth == MAX_DEPTH) {
+				System.out.println("Element found and deleting");
 				if(duplicate.contains(child.one.get(i).key))
 				{
 					for(int  k =0; k <duplicate.size(); k++)
@@ -575,7 +534,6 @@ public class BPTree {
 							}
 					}
 				}
-				System.out.println("Element found and deleting");
 				search_flag = 1;
 				if (child.one.size() > (degree + 1)) {
 					child.one.remove(i);
@@ -591,7 +549,6 @@ public class BPTree {
 						}
 						sortOneElement(child.Neighbor);
 						checkSplit(0, child.Neighbor);
-						Pr.remove(child);
 						System.out.println(Pr);
 					} else {
 						for (int j = 0; j < parent.one.size(); j++) {
@@ -602,16 +559,15 @@ public class BPTree {
 									OneElement e = child.one.remove(k);
 									e.Envelope_Node = child_neighbor;
 									child_neighbor.one.add(e);
+									sortOneElement(child_neighbor);
+									checkSplit(0, child_neighbor);
 								}
-								sortOneElement(child_neighbor);
-								checkSplit(0, child_neighbor);
 							}
 						}
 					}
 					parent.one.remove(parent_one);
 				}
 				searched_Node = child;
-				System.out.println("Element deleted");
 				break;
 			} else if (search_flag == 0 && searchable < child.one.get(0).key) {
 				Node child1 = child.one.get(i).child;
@@ -628,7 +584,6 @@ public class BPTree {
 				}
 				search_element(searchable, child1, true);
 			}
-
 		}
 		return null;
 	}
@@ -663,13 +618,6 @@ public class BPTree {
 				}
 				search_element(searchable, child1);
 			}
-			else if(search_flag == 0 && child.one.size() == 1)
-			{
-				Node child1 = child.Neighbor;
-				if(child1 == null)
-					break;
-				search_element(searchable, child1);
-			}
 		}
 		return null;
 	}
@@ -700,8 +648,7 @@ public class BPTree {
 	 * 
 	 */
 	private static void input_elements() {
-		System.out
-				.println("Enter the number of elements you want to be entered::");
+		System.out.println("Enter the number of elements you want to be entered::");
 		Scanner in = new Scanner(System.in);
 		num_of_input_elements = in.nextInt();
 		array_of_elements = new int[num_of_input_elements];
@@ -713,9 +660,10 @@ public class BPTree {
 		}
 	}
 
+	
 	/**
-	 * Read from the input sample file
-	 * @param file
+	 * Reads from the sample input file
+	 * file
 	 */
 	private static void read_input_file(String file)
 	{
